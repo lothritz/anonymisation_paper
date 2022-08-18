@@ -1,0 +1,636 @@
+index,sentence1,sentence2,label
+0,I stuck a pin through a carrot. When I pulled the pin out it had a hole.,The carrot had a hole.,1
+1,ENTITYNAME0 couldn't see the stage with Billy in front of him because he is so short.,ENTITYNAME0 is so short.,1
+2,The police arrested all of the gang members. They were trying to stop the drug trade in the neighborhood.,The police were trying to stop the drug trade in the neighborhood.,1
+3,ENTITYNAME1 follows Fred's example in everything. He influences him hugely.,ENTITYNAME1 influences him hugely.,0
+4,When Tatyana reached the cabin her mother was sleeping. She was careful not to disturb her undressing and climbing back into her berth.,mother was careful not to disturb her undressing and climbing back into her berth.,0
+5,ENTITYNAME2 got free tickets to the play but he gave them to Eric because he was particularly eager to see it.,ENTITYNAME2 was particularly eager to see it.,0
+6,ENTITYNAME0 was jogging through the park when he saw a man juggling watermelons. He was very impressive.,ENTITYNAME0 was very impressive.,0
+7,I couldn't put the pot on the shelf because it was too tall.,The pot was too tall.,1
+8,We had hoped to place copies of our newsletter on all the chairs in the auditorium but there were simply not enough of them.,There were simply not enough copies of the newsletter.,1
+9,At the Loebner competition the judges couldn't figure out which respondents were the chatbots because they were so advanced.,The judges were so advanced.,0
+10,I took the water bottle out of the backpack so that it would be lighter.,I took the water bottle out of the backpack so that the backpack would be lighter.,1
+11,The table won't fit through the doorway because it is too narrow.,The table is too narrow.,0
+12,I took the water bottle out of the backpack so that it would be handy.,I took the water bottle out of the backpack so that the backpack would be handy.,0
+13,The firemen arrived after the police because they were coming from so far away.,The police were coming from so far away.,0
+14,Always before ENTITYNAME3 had helped Dad with his work. But he could not help him now for Dad said that his boss at the railroad company would not want anyone but him to work in the office.,Dad could not help him now.,0
+15,I poured water from the bottle into the cup until it was empty.,The cup was empty.,0
+16,I put the cake away in the refrigerator. It has a lot of butter in it.,The cake has a lot of butter in it.,1
+17,ENTITYNAME4 is holding captive a scientist Dr. ENTITYNAME5 who has invented a device that turns animals invisible; ENTITYNAME4 plans to use it on Geoffrey and send him to steal nuclear material from an army vault.,ENTITYNAME4 plans to use it on ENTITYNAME6 and send ENTITYNAME4 to steal nuclear material from an army vault.,0
+18,The foxes are getting in at night and attacking the chickens. They have gotten very bold.,The foxes have gotten very bold.,1
+19,ENTITYNAME7 pulled up a chair to the piano but it was broken so he had to stand instead.,The piano was broken so he had to stand instead.,0
+20,ENTITYNAME8 knocked on Susan's door but she did not get an answer.,ENTITYNAME9 did not get an answer.,0
+21,ENTITYNAME10 was playing cards with ENTITYNAME11 and was way ahead. If ENTITYNAME11 hadn't had a sudden run of good luck he would have won.,ENTITYNAME11 would have won.,0
+22,I put the butterfly wing on the table and it broke.,The table broke.,0
+23,ENTITYNAME12 tried to call George on the phone but he wasn't successful.,ENTITYNAME12 wasn't successful.,1
+24,Look! There is a shark swimming right below that duck! It had better get away to safety fast!,The shark had better get away to safety fast!,0
+25,The trophy doesn't fit into the brown suitcase because it is too large.,The suitcase is too large.,0
+26,ENTITYNAME13's uncle can still beat him at tennis even though he is 30 years older.,ENTITYNAME13 is 30 years older.,0
+27,The large ball crashed right through the table because it was made of steel.,The large ball was made of steel.,1
+28,ENTITYNAME7 broke both his ankles and he's walking with crutches. But a month or so from now they should be better.,The crutches should be better.,0
+29,ENTITYNAME14 worked hard to harvest his beans so he and his family would have enough to eat that winter His friend ENTITYNAME15 let him stack them in his barn where they would dry. Later he and ENTITYNAME16 would shell them and cook them for their Sunday dinners.,His friend ENTITYNAME15 let him stack Grant and his family in his barn where they would dry.,0
+30,ENTITYNAME8 knocked on the door and Susan answered it. She invited her to come out.,ENTITYNAME8 invited her to come out.,1
+31,ENTITYNAME17 had to stop Bill from toying with the injured bird. He is very cruel.,ENTITYNAME18 is very cruel.,1
+32,ENTITYNAME19 said "Check" to Ralph as he took his bishop.,ENTITYNAME19 said "Check" to ENTITYNAME20 as he took ENTITYNAME20's bishop.,1
+33,I sallied out for a bit of food more to pass the time than because I wanted it.,I sallied out for a bit of food more to pass the time than because I wanted food.,1
+34,ENTITYNAME13 paid the detective after he received the final report on the case.,ENTITYNAME13 received the final report on the case.,1
+35,We had hoped to place copies of our newsletter on all the chairs in the auditorium but there were simply too many of them.,There were simply too many copies of the newsletter.,0
+36,ENTITYNAME13 has sold his house and bought a new one a few miles away. He will be moving into it on Thursday.,He will be moving into The new house on Thursday.,1
+37,Always before ENTITYNAME3 had helped Dad with his work. But he could not help him now for Dad said that his boss at the railroad company would not want anyone but him to work in the office.,He could not help Dad now.,1
+38,The table was piled high with food and on the floor beside it there were crocks baskets and a five-quart pail of milk.,Beside the table there were crocks baskets and a five-quart pail of milk.,1
+39,ENTITYNAME21 comforted Kevin because he was so upset.,ENTITYNAME22 was so upset.,1
+40,ENTITYNAME23 was greatly influenced by Arnold though he lived two centuries earlier.,ENTITYNAME24 lived two centuries earlier.,1
+41,There is a pillar between me and the stage and I can't see around it.,I can't see around the stage.,0
+42,Archaeologists have concluded that humans lived in Laputa 20000 years ago. They hunted for deer on the river banks.,Prehistoric humans hunted for deer on the river banks.,1
+43,ENTITYNAME7 and ENTITYNAME25 are passionately in love but ENTITYNAME25's parents are unhappy about it because they are snobs.,ENTITYNAME25's parents are snobs.,1
+44,ENTITYNAME18 passed the half-empty plate to John because he was hungry.,ENTITYNAME0 was hungry.,1
+45,ENTITYNAME26 borrowed the book from the library because she needs it for an article she is working on. She writes it when she gets home from work.,She writes the book when she gets home from work.,0
+46,ENTITYNAME0 promised Bill to leave so an hour later he left.,ENTITYNAME18 left.,0
+47,ENTITYNAME26 borrowed the book from the library because she needs it for an article she is working on. She reads it when she gets home from work.,She reads the article when she gets home from work.,0
+48,ENTITYNAME27 heard Steve's feet going down the ladder. The door of the shop closed after him. He ran to look out the window.,The door of the shop closed after ENTITYNAME1.,1
+49,ENTITYNAME28 is the only man alive who still remembers my father as an infant. When ENTITYNAME28 first saw my father he was twelve years old.,When ENTITYNAME28 first saw my father My father was twelve years old.,0
+50,Tatyana knew that Grandma always enjoyed serving an abundance of food to her guests. Now Tatyana watched as Grandma gathered Tatyana's small mother into a wide scrawny embrace and then propelled her to the table lifting her shawl from her shoulders seating her in the place of honor and saying simply: "There's plenty.",Grandma gathered Tatyana's small mother into a wide scrawny embrace and then propelled Grandma to the table.,0
+51,ENTITYNAME28 watched TV while George went out to buy groceries. After an hour he got back.,ENTITYNAME2 got back.,1
+52,ENTITYNAME29 spoke to Donna breaking her concentration.,ENTITYNAME29 spoke to ENTITYNAME30 breaking ENTITYNAME30's concentration.,1
+53,Although they ran at about the same speed ENTITYNAME31 beat Sally because she had such a bad start.,ENTITYNAME31 had such a bad start.,0
+54,ENTITYNAME32 fired her trainer because she couldn't stand her boyfriend.,She couldn't stand ENTITYNAME32's boyfriend.,0
+55,I can't cut that tree down with that axe; it is too small.,The axe is too small.,1
+56,ENTITYNAME32 fired her trainer because she slept with her boyfriend.,She slept with ENTITYNAME32's boyfriend.,1
+57,I saw ENTITYNAME21 yelling at some guy in a military uniform with a huge red beard. I don't know why he was but he looked very unhappy.,I don't know why the guy in uniform was but he looked very unhappy.,0
+58,ENTITYNAME33 tried frantically to stop her daughter from chatting at the party leaving us to wonder why she was behaving so strangely.,ENTITYNAME33's daughter was behaving so strangely.,0
+59,ENTITYNAME8 knocked on Susan's door but she did not answer.,ENTITYNAME8 did not answer.,0
+60,The politicians far away in Washington could not know the settlers so they must make rules to regulate them.,The politicians must make rules to regulate them.,1
+61,A number of times ENTITYNAME15 had been present at interviews which his father had had with noted detectives who desired his aid in solving perplexing mysteries and those occasions stood out as red-letter days for him.,Those occasions stood out as red-letter days for ENTITYNAME15.,1
+62,ENTITYNAME7 pulled up a chair to the piano but it was broken so he had to stand instead.,The chair was broken so he had to stand instead.,1
+63,Since it was raining I carried the newspaper over my backpack to keep it dry.,I carried the newspaper over my backpack to keep the backpack dry.,1
+64,The politicians far away in Washington could not know the settlers so they must make rules to regulate them.,They must make rules to regular the politicians.,0
+65,ENTITYNAME34 did a lot better than her good friend Lucy on the test because she had studied so hard.,ENTITYNAME34 had studied so hard.,1
+66,ENTITYNAME27 was close to Mr. Singer's heels. He heard him calling for the captain promising him in the jargon everyone talked that night that not one thing should be damaged on the ship except only the ammunition but the captain and all his crew had best stay in the cabin until the work was over.,Mr. ENTITYNAME35 heard him calling for the captain,0
+67,ENTITYNAME28 is the only man still alive who remembers my great-grandfather. He was a remarkable man.,My great-grandfather was a remarkable man.,1
+68,I couldn't put the pot on the shelf because it was too high.,The shelf was too high.,1
+69,No one joins Facebook to be sad and lonely. But a new study from the University of Wisconsin psychologist ENTITYNAME36 argues that that's exactly how it makes us feel.,That's exactly how the study makes us feel.,0
+70,ENTITYNAME10 paid for Charlie's college education. He is very generous.,ENTITYNAME10 is very generous.,1
+71,ENTITYNAME0 promised Bill to leave so an hour later he left.,ENTITYNAME0 left.,1
+72,ENTITYNAME37 was upset with Tom because the toaster he had sold him didn't work.,The toaster ENTITYNAME37 had sold him didn't work.,0
+73,Equally swoon-worthy is C.K. Dexter Haven a pallid young dandy holding a jade-handled walking stick with a poodle asleep at his feet.,Equally swoon-worthy is C.K. Dexter Haven a pallid young dandy holding a jade-handled walking stick with a poodle asleep at Haven's feet.,1
+74,ENTITYNAME13 has sold his house and bought a new one a few miles away. He will be moving out of it on Thursday.,He will be moving out of The old house on Thursday.,1
+75,ENTITYNAME27 heard Steve's feet going down the ladder. The door of the shop closed after him. He ran to look out the window.,The door of the shop closed after ENTITYNAME27.,0
+76,It is not easy to space buttonholes exactly the same distance apart and it is very difficult to cut them precisely the right size. The tiniest slip of the scissors will make the hole too large and even one thread uncut will leave it too small.,Even one thread uncut will leave the right size too small.,0
+77,ENTITYNAME40 cried because Toby wouldn't accept his toy.,ENTITYNAME40 cried because ENTITYNAME41 wouldn't accept ENTITYNAME41's toy.,0
+78,As ENTITYNAME42 carried Tommy up the long winding steps his legs dangled.,ENTITYNAME42's legs dangled.,0
+79,ENTITYNAME7 pulled up a chair to the piano but it was broken so he had to sing instead.,The chair was broken so he had to sing instead.,0
+80,The fish ate the worm. It was hungry.,The worm was hungry.,0
+81,The journalists interviewed the stars of the new movie. They were very cooperative so the interview lasted for a long time.,The journalists were very cooperative so the interview lasted for a long time.,0
+82,The trophy doesn't fit into the brown suitcase because it is too small.,The trophy is too small.,0
+83,ENTITYNAME43 visited Cooper's grave in 1765. At that date he had been travelling for five years.,ENTITYNAME44 had been travelling for five years.,0
+84,ENTITYNAME33 was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album. Today she had to hunt for a button so she put the album on a chair without even opening it.,She put the album on a chair without even opening the living room.,0
+85,ENTITYNAME18 passed the half-empty plate to John because he was full.,Bill was full.,1
+86,ENTITYNAME18 passed the half-empty plate to John because he was full.,ENTITYNAME0 was full.,0
+87,The foxes are getting in at night and attacking the chickens. I shall have to kill them.,I shall have to kill The foxes.,1
+88,ENTITYNAME13's uncle can still beat him at tennis even though he is 30 years younger.,ENTITYNAME13 is 30 years younger.,1
+89,ENTITYNAME45 did not pass the ball to ENTITYNAME46 although she was open.,She saw that ENTITYNAME46 was open.,1
+90,ENTITYNAME18 passed the gameboy to John because his turn was over.,ENTITYNAME18's turn was over.,1
+91,ENTITYNAME47 asked Mary what time the library closes because she had forgotten.,Ann had forgotten.,1
+92,ENTITYNAME48's parents came home and found her having sex with her boyfriend Paul. They were furious about it.,ENTITYNAME48's parents were furious about it.,1
+93,This morning ENTITYNAME49 built a sand castle on the beach and put a toy flag in the highest tower but this afternoon the tide knocked it down.,This afternoon the tide knocked The flag down.,0
+94,The man couldn't lift his son because he was so weak.,The man was so weak.,1
+95,The customer walked into the bank and stabbed one of the tellers. He was immediately taken to the hospital.,The customer was immediately taken to the hospital.,0
+96,Since ENTITYNAME50 was dependent on Uncle Vernon he couldn't very well marry without his approval,He couldn't very well marry without ENTITYNAME50's approval,0
+97,ENTITYNAME51 came over and sat down beside Alice. Gently she stroked her hair and let the child weep.,Mama stroked her hair and let the child weep.,1
+98,ENTITYNAME45 did not pass the ball to ENTITYNAME46 although she saw that she was open.,Emma saw that she was open.,1
+99,ENTITYNAME27 became absorbed in Blaze the white horse. He was afraid the stable boys at the Burlington Stables struck at him and bullied him because he was timid so he took upon himself the feeding and care of the animal.,ENTITYNAME27 was afraid the stable boys at the Burlington Stables struck at him and bullied him.,1
+100,By rolling over in her upper berth Tatyana could look over the edge of it and see her mother plainly. How very small and straight and rigid she lay in the bunk below! Her eyes were closed but Tatyana doubted if she slept.,Tatyana doubted if her mother slept.,1
+101,ENTITYNAME53 asked Robert for a favor but he was refused.,ENTITYNAME54 was refused.,0
+102,I can't cut that tree down with that axe; it is too thick.,The axe is too thick.,0
+103,ENTITYNAME10 collapsed on the sidewalk. Soon he saw Carl coming to help. He was very ill.,ENTITYNAME10 was very ill.,1
+104,ENTITYNAME45 did not pass the ball to ENTITYNAME46 although she saw that she was open.,ENTITYNAME46 saw that she was open.,0
+105,ENTITYNAME19 gave Ralph a lift to school so he wouldn't have to drive alone.,ENTITYNAME19 wouldn't have to drive alone.,1
+106,ENTITYNAME7's drawing was hung just above Tina's and it did look much better with another one below it.,ENTITYNAME7's drawing did look much better with another one below it.,1
+107,Although they ran at about the same speed ENTITYNAME31 beat Sally because she had such a good start.,ENTITYNAME31 had such a good start.,1
+108,ENTITYNAME55 was happy to trade me her sweater for my jacket. She thinks it looks dowdy on her.,The sweater looks dowdy on her.,1
+109,ENTITYNAME10 paid for Charlie's college education. He is very grateful.,ENTITYNAME56 is very grateful.,1
+110,ENTITYNAME55 was happy to trade me her sweater for my jacket. She thinks it looks great on her.,The sweater looks great on her.,0
+111,Every day after dinner Mr. ENTITYNAME57 took a long nap. Mark would let him sleep for an hour then wake him up scold him and get him to work. He needed to get him to finish his work because his work was beautiful.,Mr. ENTITYNAME57's work was beautiful.,1
+112,The man lifted the boy onto his shoulders.,The man lifted the boy onto the man's shoulders.,1
+113,ENTITYNAME28 and Alice had very warm down coats but they were not prepared for the cold in Alaska.,coats were not prepared for the cold in Alaska.,0
+114,In July Kamtchatka declared war on Yakutsk. Since Yakutsk's army was much better equipped and ten times larger they were defeated within weeks.,Yakutsk was defeated within weeks.,0
+115,ENTITYNAME23 was greatly influenced by Arnold though he lived two centuries earlier.,ENTITYNAME23 lived two centuries earlier.,0
+116,The path to the lake was blocked so we couldn't use it.,We couldn't use the lake.,0
+117,ENTITYNAME26 borrowed the book from the library because she needs it for an article she is working on. She reads it when she gets home from work.,She reads the book when she gets home from work.,1
+118,The customer walked into the bank and stabbed one of the tellers. He was immediately taken to the police station.,The teller was immediately taken to the police station.,0
+119,ENTITYNAME11 can't leave work here until ENTITYNAME10 arrives to replace him. If ENTITYNAME10 had left home for work on time he would be here by this time.,ENTITYNAME10 would be here by this time.,1
+120,What about the time you cut up tulip bulbs in the hamburgers because you thought they were onions?,You thought tulip bulbs were onions?,1
+121,This book introduced ENTITYNAME58 to ENTITYNAME59; it was a major influence on his writing.,It was a major influence on ENTITYNAME58's writing.,1
+122,ENTITYNAME43 visited Cooper's grave in 1765. At that date he had been dead for five years.,ENTITYNAME44 had been dead for five years.,1
+123,ENTITYNAME28 was supposed to run the dishwasher but he put it off because he wanted to watch TV. But the show turned out to be boring so he changed his mind and turned it on.,He changed his mind and turned the TV on.,0
+124,ENTITYNAME12 tried to call George on the phone but he wasn't available.,ENTITYNAME2 wasn't available.,1
+125,When Tatyana reached the cabin her mother was sleeping. She was careful not to disturb her undressing and climbing back into her berth.,Tatyana was careful not to disturb her undressing and climbing back into her berth.,1
+126,ENTITYNAME60 who had not told the government official that he was less than 21 when he filed for a homestead claim did not consider that he had done anything dishonest. Still anyone who knew that he was 19 years old could take his claim away from him.,Anyone who knew that he was 19 years old could take his claim away from the government official.,0
+127,ENTITYNAME28 is the only man still alive who remembers my great-grandfather. He is a remarkable man.,My great-grandfather is a remarkable man.,0
+128,I put the cake away in the refrigerator. It has a lot of leftovers in it.,The cake has a lot of leftovers in it.,0
+129,ENTITYNAME21 signaled the barman and gestured toward his bathroom key.,ENTITYNAME21 signaled the barman and gestured toward The barman's bathroom key.,1
+130,ENTITYNAME1 follows Fred's example in everything. He influences him hugely.,ENTITYNAME28 influences him hugely.,1
+131,When Tatyana reached the cabin her mother was sleeping. She was careful not to disturb her  undressing and climbing back into her berth.,She was careful not to disturb her mother  undressing and climbing back into her berth.,1
+132,ENTITYNAME8 gave Joan candy because she wasn't hungry.,Jane wasn't hungry.,1
+133,When ENTITYNAME61 dropped his ice cream ENTITYNAME62 giggled so father gave him a stern look.,Father gave ENTITYNAME61 a stern look.,0
+134,I couldn't find a spoon so I tried using a pen to stir my coffee. But that turned out to be a bad idea because it got full of ink.,The coffee got full of ink.,1
+135,The man couldn't lift his son because he was so weak.,The son was so weak.,0
+136,ENTITYNAME7 tried to paint a picture of shepherds with sheep but they ended up looking more like golfers.,The shepherds ended up looking more like golfers.,1
+137,I couldn't find a spoon so I tried using a pen to stir my coffee. But that turned out to be a bad idea because it got full of ink.,The pen got full of ink.,0
+138,ENTITYNAME0 was jogging through the park when he saw a man juggling watermelons. He was very impressed.,ENTITYNAME0 was very impressed.,1
+139,ENTITYNAME28 covered his eyes with his hands because the wind was blowing sand around. He lowered them when the wind stopped.,He lowered his eyes when the wind stopped.,0
+140,The delivery truck zoomed by the school bus because it was going so fast.,The school bus was going so fast.,0
+141,During a game of tag ENTITYNAME63 chased Luke because he was "it".,ENTITYNAME64 was "it".,0
+142,There is a gap in the wall. You can see the garden behind it.,You can see the garden through the wall.,1
+143,I took the water bottle out of the backpack so that it would be lighter.,I took the water bottle out of the backpack so that the water bottle would be lighter.,0
+144,The sun was covered by a thick cloud all morning but luckily by the time the picnic started it was out.,The sun was out.,1
+145,ENTITYNAME21 yelled at Kevin because he was so upset.,ENTITYNAME21 was so upset.,1
+146,Even before they reached town they could hear a sound like corn popping. ENTITYNAME65 asked what it was and Dad said it was firecrackers.,ENTITYNAME65 asked what the sound was.,1
+147,ENTITYNAME18 passed the gameboy to John because his turn was next.,ENTITYNAME18's turn was next.,0
+148,ENTITYNAME28 was supposed to run the dishwasher but he put it off because he wanted to watch TV. But the show turned out to be boring so he changed his mind and turned it on.,He changed his mind and turned the dishwasher on.,1
+149,As ENTITYNAME42 carried Tommy up the long winding steps his legs ached.,ENTITYNAME61's legs ached.,0
+150,The foxes are getting in at night and attacking the chickens. I shall have to kill them.,I shall have to kill The chickens.,0
+151,ENTITYNAME66 looked down at the children's faces so puzzled and sad now. It was bad enough that they had to be denied so many things because he couldn't afford them.,It was bad enough that the faces had to be denied so many things because he couldn't afford them.,0
+152,The sack of potatoes had been placed above the bag of flour so it had to be moved first.,The bag of flour had to be moved first.,0
+153,The dog chased the cat which ran up a tree. It waited at the top.,The dog waited at the top.,0
+154,ENTITYNAME1 follows Fred's example in everything. He admires him hugely.,ENTITYNAME28 admires him hugely.,0
+155,The woman held the girl against her chest.,The woman held the girl against the woman's chest.,1
+156,The dog chased the cat which ran up a tree. It waited at the bottom.,The dog waited at the bottom.,1
+157,ENTITYNAME10 collapsed on the sidewalk. Soon he saw Carl coming to help. He was very concerned.,ENTITYNAME67 was very concerned.,1
+158,ENTITYNAME7 broke both his ankles and he's walking with crutches. But a month or so from now they should be unnecessary.,The crutches should be unnecessary.,1
+159,I stuck a pin through a carrot. When I pulled the pin out it left a hole.,The carrot left a hole.,0
+160,ENTITYNAME7 tried to paint a picture of shepherds with sheep but they ended up looking more like dogs.,The sheep ended up looking more like dogs.,1
+161,In the middle of the outdoor concert the rain started falling and it continued until 10.,The concert continued until 10.,0
+162,The firemen arrived before the police because they were coming from so far away.,The firemen were coming from so far away.,0
+163,I was trying to open the lock with the key but someone had filled the keyhole with chewing gum and I couldn't get it in.,I couldn't get the key in.,1
+164,Of one thing ENTITYNAME27 was sure. Harry knew much less than he did.,ENTITYNAME68 knew much less than Mark did.,1
+165,The Dakota prairie lay so warm and bright under the shining sun that it did not seem possible that it had ever been swept by the winds and snows of that hard winter.,It did not seem possible that the prairie had ever been swept by the winds and snows of that hard winter.,1
+166,It was a summer afternoon and the dog was sitting in the middle of the lawn. After a while it got up and moved to a spot under the tree because it was hot.,The dog was hot.,1
+167,ENTITYNAME37 felt vindicated when his longtime rival Bill revealed that he was the winner of the competition.,ENTITYNAME37 was the winner of the competition.,1
+168,ENTITYNAME69 made sure to thank Susan for all the help she had given.,ENTITYNAME69 made sure to thank ENTITYNAME9 for all the help ENTITYNAME9 had given.,1
+169,They broadcast an announcement but a subway came into the station and I couldn't hear over it.,I couldn't hear the announcement.,0
+170,ENTITYNAME0 was doing research in the library when he heard a man humming and whistling. He was very annoyed.,ENTITYNAME0 was very annoyed.,1
+171,ENTITYNAME70 took out her flute and played one of her favorite pieces. She has loved it since she was a child.,She has loved the piece since she was a child.,1
+172,I'm sure that my map will show this building; it is very good.,The map is very good.,1
+173,ENTITYNAME71 believed that Rebecca regretted that she had stolen the watch.,ENTITYNAME71 believed that ENTITYNAME72 regretted that ENTITYNAME72 had stolen the watch.,1
+174,The table won't fit through the doorway because it is too narrow.,The doorway is too narrow.,1
+175,If the con artist has succeeded in fooling ENTITYNAME7 he would have lost a lot of money.,The con artist would have lost a lot of money.,0
+176,ENTITYNAME7 pulled up a chair to the piano but it was broken so he had to sing instead.,The piano was broken so he had to sing instead.,1
+177,ENTITYNAME28 is the only man alive who still remembers my father as an infant. When ENTITYNAME28 first saw my father he was twelve months old.,When ENTITYNAME28 first saw my father ENTITYNAME28 was twelve months old.,0
+178,ENTITYNAME34 did a lot better than her good friend Lucy on the test because she had studied so hard.,ENTITYNAME73 had studied so hard.,0
+179,ENTITYNAME8 knocked on the door and Susan answered it. She invited her to come out.,ENTITYNAME9 invited her to come out.,0
+180,The path to the lake was blocked so we couldn't reach it.,We couldn't reach the lake.,1
+181,ENTITYNAME55 was happy to trade me her sweater for my jacket. She thinks it looks dowdy on her.,The jacket looks dowdy on her.,0
+182,ENTITYNAME74 ceded the presidency to ENTITYNAME75 because he was more popular.,ENTITYNAME74 was more popular.,0
+183,I tried to paint a picture of an orchard with lemons in the lemon trees but they came out looking more like telephone poles.,The lemon trees came out looking more like telephone poles.,1
+184,ENTITYNAME76 envies Martin because he is very successful.,ENTITYNAME77 is very successful.,1
+185,Since it was raining I carried the newspaper in my backpack to keep it dry.,I carried the newspaper in my backpack to keep the newspaper dry.,1
+186,ENTITYNAME48's parents came home and found her having sex with her boyfriend Paul. They were furious about it.,ENTITYNAME48 and Paul were furious about it.,0
+187,I sat there feeling rather like a chappie I'd once read about in a book who murdered another cove and hid the body under the dining-room table and then had to be the life and soul of a dinner party with it there all the time.,He had to be the life and soul of a dinner party with the dinner party there all the time.,0
+188,In the storm the tree fell down and crashed through the roof of my house. Now I have to get it removed.,Now I have to get The tree removed.,1
+189,ENTITYNAME28 was supposed to run the dishwasher but he put it off because he wanted to watch TV. But the show turned out to be boring so he changed his mind and turned it off.,He changed his mind and turned the TV off.,1
+190,In the middle of the outdoor concert the rain started falling and it continued until 10.,The rain continued until 10.,1
+191,It is not easy to space buttonholes exactly the same distance apart and it is very difficult to cut them precisely the right size. The tiniest slip of the scissors will make the hole too large and even one thread uncut will leave it too small.,Even one thread uncut will leave one thread too small.,0
+192,ENTITYNAME7 took French classes from Adam because he was known to speak it fluently.,ENTITYNAME11 was known to speak it fluently.,1
+193,ENTITYNAME78 explained his theory to Mark but he couldn't convince him.,ENTITYNAME78 couldn't convince him.,1
+194,Everyone really loved the oatmeal cookies; only a few people liked the chocolate chip cookies. Next time we should make more of them.,We should make more of the oatmeal cookies.,1
+195,The sack of potatoes had been placed below the bag of flour so it had to be moved first.,The bag of flour had to be moved first.,1
+196,As ENTITYNAME42 carried Tommy up the long winding steps his legs dangled.,ENTITYNAME61's legs dangled.,1
+197,ENTITYNAME79's biography of the Spartan general ENTITYNAME80 conveys a vivid sense of the difficulties he faced in his research.,ENTITYNAME79's biography of the Spartan general ENTITYNAME80 conveys a vivid sense of the difficulties Goodman faced in his research.,1
+198,ENTITYNAME27 became absorbed in Blaze the white horse. He was afraid the stable boys at the Burlington Stables struck at him and bullied him because he was timid so he took upon himself the feeding and care of the animal.,ENTITYNAME81 took upon himself the feeding and care of the animal.,0
+199,ENTITYNAME13's uncle can still beat him at tennis even though he is 30 years older.,ENTITYNAME13's uncle is 30 years older.,1
+200,ENTITYNAME33 was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album. Today she had to hunt for a button so she put the album on a chair without even opening it.,Mama had to hunt for a button.,0
+201,I poured water from the bottle into the cup until it was full.,The cup was full.,1
+202,During a game of tag ENTITYNAME63 chased Luke because he was "it".,ENTITYNAME63 was "it".,1
+203,ENTITYNAME8 gave Joan candy because she was hungry.,Joan was hungry.,1
+204,Mr. ENTITYNAME82 visited ENTITYNAME50's luxurious New York apartment thinking that it belonged to his son ENTITYNAME83. The result was that Mr. ENTITYNAME82 has decided to cancel ENTITYNAME83's allowance on the ground that he no longer requires his financial support.,ENTITYNAME83 no longer requires his financial support.,1
+205,When ENTITYNAME61 dropped his ice cream ENTITYNAME62 giggled so father gave him a sympathetic look.,Father gave ENTITYNAME61 a sympathetic look.,1
+206,ENTITYNAME0 was doing research in the library when he heard a man humming and whistling. He was very annoyed.,The man was very annoyed.,0
+207,It is not easy to space buttonholes exactly the same distance apart and it is very difficult to cut them precisely the right size. The tiniest slip of the scissors will make the hole too large and even one thread uncut will leave it too small.,Even one thread uncut will leave the slip too small.,0
+208,ENTITYNAME9 knows all about Ann's personal problems because she is nosy.,ENTITYNAME47 is nosy.,0
+209,It is not easy to space buttonholes exactly the same distance apart and it is very difficult to cut them precisely the right size. The tiniest slip of the scissors will make the hole too large and even one thread uncut will leave it too small.,Even one thread uncut will leave the scissors too small.,0
+210,The sun was covered by a thick cloud all morning but luckily by the time the picnic started it was out.,The cloud was out.,0
+211,The journalists interviewed the stars of the new movie. They were very cooperative so the interview lasted for a long time.,The stars were very cooperative so the interview lasted for a long time.,1
+212,The city councilmen refused the demonstrators a permit because they feared violence.,The city councilmen feared violence.,1
+213,ENTITYNAME84 gave birth to a daughter last month. She is a very charming woman.,ENTITYNAME84's daughter is a very charming woman.,0
+214,ENTITYNAME23 was greatly influenced by Arnold though he lived two centuries later.,ENTITYNAME23 lived two centuries later.,1
+215,This book introduced ENTITYNAME58 to ENTITYNAME59; it was a fine selection of his writing.,It was a fine selection of ENTITYNAME58's writing.,0
+216,The father carried the sleeping boy in his bassinet.,The father carried the sleeping boy in the father's bassinet.,0
+217,ENTITYNAME17 took the rear seat while Bill claimed the front because his "Dibs!" was quicker.,ENTITYNAME17 took the rear seat while ENTITYNAME18 claimed the front because ENTITYNAME17's "Dibs!" was quicker.,0
+218,ENTITYNAME76 envies Martin although he is very successful.,ENTITYNAME77 is very successful.,0
+219,Of one thing ENTITYNAME27 was sure. Harry knew much less than he did.,ENTITYNAME68 knew much less than ENTITYNAME68 did.,0
+220,Since ENTITYNAME50 was dependent on Uncle Vernon he couldn't very well marry without his approval,Uncle ENTITYNAME85 couldn't very well marry without his approval,0
+221,ENTITYNAME43 visited Cooper's grave in 1765. At that date he had been dead for five years.,ENTITYNAME43 had been dead for five years.,0
+222,ENTITYNAME27 told ENTITYNAME76 many lies about himself which ENTITYNAME76 included in his book. He should have been more skeptical.,ENTITYNAME27 should have been more skeptical.,0
+223,My meeting started at 4:00 and I needed to catch the train at 4:30 so there wasn't much time. Luckily it was delayed so it worked out.,The meeting was delayed so it worked out.,0
+224,The foxes are getting in at night and attacking the chickens. They have gotten very nervous.,The foxes have gotten very nervous.,0
+225,I put the butterfly wing on the table and it broke.,The butterfly wing broke.,1
+226,ENTITYNAME28 and Alice had very warm down coats but they were not prepared for the cold in Alaska.,ENTITYNAME28 and Alice were not prepared for the cold in Alaska.,1
+227,ENTITYNAME19 gave Ralph a lift to school so he wouldn't have to walk.,ENTITYNAME19 wouldn't have to walk.,0
+228,I put the cake away in the refrigerator. It has a lot of leftovers in it.,The refrigerator has a lot of leftovers in it.,1
+229,ENTITYNAME78 explained his theory to Mark but he couldn't convince him.,ENTITYNAME27 couldn't convince him.,0
+230,I took the water bottle out of the backpack so that it would be handy.,I took the water bottle out of the backpack so that the water bottle would be handy.,1
+231,The fish ate the worm. It was tasty.,The worm was tasty.,1
+232,As ENTITYNAME86 in the crop duster passed over Susan she could see the landing strip.,ENTITYNAME86 could see the landing strip.,1
+233,As ENTITYNAME86 in the crop duster passed over Susan she could see the landing strip.,Susan could see the landing strip.,0
+234,ENTITYNAME4 is holding captive a scientist Dr. ENTITYNAME5 who has invented a device that turns animals invisible; ENTITYNAME4 plans to use it on Geoffrey and send him to steal nuclear material from an army vault.,ENTITYNAME4 plans to use it on ENTITYNAME6 and send ENTITYNAME6 to steal nuclear material from an army vault.,1
+235,ENTITYNAME74 ceded the presidency to ENTITYNAME75 because he was more popular.,ENTITYNAME75 was more popular.,1
+236,ENTITYNAME60 who had not told the government official that he was less than 21 when he filed for a homestead claim did not consider that he had done anything dishonest. Still anyone who knew that he was 19 years old could take his claim away from him.,The government official was less than 21 when he filed for a homestead claim.,0
+237,ENTITYNAME51 came over and sat down beside Alice. Gently she stroked her hair and let the child weep.,ENTITYNAME33 stroked her hair and let the child weep.,0
+238,ENTITYNAME33 looked for her friend ENTITYNAME87 in the crowd. Since she always has good luck ENTITYNAME33 spotted her quickly.,Since ENTITYNAME87 always has good luck Alice spotted her quickly.,0
+239,I sat there feeling rather like a chappie I'd once read about in a book who murdered another cove and hid the body under the dining-room table and then had to be the life and soul of a dinner party with it there all the time.,He had to be the life and soul of a dinner party with the body there all the time.,1
+240,The cat was lying by the mouse hole waiting for the mouse but it was too impatient.,The mouse was too impatient.,0
+241,Everyone really loved the oatmeal cookies; only a few people liked the chocolate chip cookies. Next time we should make more of them.,We should make more of the chocolate chip cookies.,0
+242,ENTITYNAME21 signaled the barman and gestured toward his bathroom key.,ENTITYNAME21 signaled the barman and gestured toward ENTITYNAME21's bathroom key.,0
+243,ENTITYNAME27 was close to Mr. Singer's heels. He heard him calling for the captain promising him in the jargon everyone talked that night that not one thing should be damaged on the ship except only the ammunition but the captain and all his crew had best stay in the cabin until the work was over.,He heard Mr. ENTITYNAME35 calling for the captain.,1
+244,I couldn't put the pot on the shelf because it was too tall.,The shelf was too tall.,0
+245,ENTITYNAME0 was jogging through the park when he saw a man juggling watermelons. He was very impressive.,The juggler was very impressive.,1
+246,The lawyer asked the witness a question but he was reluctant to answer it.,The witness was reluctant to answer it.,1
+247,ENTITYNAME9 knew that Ann's son had been in a car accident because she told her about it.,ENTITYNAME9 told her about it.,0
+248,Since ENTITYNAME50 was dependent on Uncle Vernon he couldn't very well marry without his approval,ENTITYNAME50 couldn't very well marry without his approval,1
+249,When the sponsors of the bill got to the town hall they were surprised to find that the room was full of opponents. They were very much in the majority.,The opponents were very much in the majority.,1
+250,ENTITYNAME40 cried because Toby wouldn't share his toy.,ENTITYNAME40 cried because ENTITYNAME41 wouldn't share ENTITYNAME41's toy.,1
+251,At the Loebner competition the judges couldn't figure out which respondents were the chatbots because they were so stupid.,The judges were so stupid.,1
+252,The large ball crashed right through the table because it was made of steel.,The table was made of steel.,0
+253,ENTITYNAME14 worked hard to harvest his beans so he and his family would have enough to eat that winter His friend ENTITYNAME15 let him stack them in his barn where they would dry. Later he and ENTITYNAME16 would shell them and cook them for their Sunday dinners.,His friend ENTITYNAME15 let him stack the beans in his barn where they would dry.,1
+254,ENTITYNAME8 knocked on Susan's door but there was no answer. She was out.,ENTITYNAME8 was out.,0
+255,ENTITYNAME8 knocked on the door and Susan answered it. She invited her to come in.,ENTITYNAME8 invited her to come in.,0
+256,The table won't fit through the doorway because it is too wide.,The doorway is too wide.,0
+257,A number of times ENTITYNAME15 had been present at interviews which his father had had with noted detectives who desired his aid in solving perplexing mysteries and those occasions stood out as red-letter days for him.,Those occasions stood out as red-letter days for father.,0
+258,If the con artist has succeeded in fooling ENTITYNAME7 he would have lost a lot of money.,ENTITYNAME7 would have lost a lot of money.,1
+259,ENTITYNAME3 a timid teen-ager lives with his widowed mother in a Brooklyn housing project. ENTITYNAME3's father a gang leader was shot to death; his father's disciple ENTITYNAME88 takes ENTITYNAME3 under his wing and quickly molds him into a drug runner.,His father's disciple ENTITYNAME88 takes ENTITYNAME3 under his wing and quickly molds ENTITYNAME3's father into a drug runner.,0
+260,ENTITYNAME37 felt crushed when his longtime rival Bill revealed that he was the winner of the competition.,ENTITYNAME37 was the winner of the competition.,0
+261,ENTITYNAME28 covered his eyes with his hands because the wind was blowing sand around. He lowered them when the wind stopped.,He lowered his hands when the wind stopped.,1
+262,The Wainwrights treated Mr. ENTITYNAME89 like a prince until he made his will in their favor; then they treated him like dirt. Folks said he died just to be rid of their everlasting nagging.,Folks said he died just to be ride of the folks' everlasting nagging.,0
+263,The father carried the sleeping boy in his arms.,The father carried the sleeping boy in the boy's arms.,0
+264,There is a gap in the wall. You can see the garden through it.,You can see the garden through the wall.,0
+265,Archaeologists have concluded that humans lived in Laputa 20000 years ago. They hunted for deer on the river banks.,Archaeologists hunted for deer on the river banks.,0
+266,ENTITYNAME9 knew that Ann's son had been in a car accident so she told her about it.,ENTITYNAME9 told her about it.,1
+267,Then Dad figured out how much the man owed the store; to that he added the man's board-bill at the cook-shanty. He subtracted that amount from the man's wages and made out his check,The man subtracted that amount from the man's wages.,0
+268,The customer walked into the bank and stabbed one of the tellers. He was immediately taken to the hospital.,The teller was immediately taken to the hospital.,1
+269,ENTITYNAME74 ceded the presidency to ENTITYNAME75 because he was less popular.,ENTITYNAME74 was less popular.,1
+270,ENTITYNAME0 hired Bill to take care of him.,ENTITYNAME0 hired ENTITYNAME18 to take care of ENTITYNAME18.,0
+271,ENTITYNAME18 passed the gameboy to John because his turn was next.,ENTITYNAME0's turn was next.,1
+272,ENTITYNAME13 paid the detective after he delivered the final report on the case.,ENTITYNAME13 delivered the final report on the case.,0
+273,ENTITYNAME28 is the only man alive who still remembers my father as an infant. When ENTITYNAME28 first saw my father he was twelve months old.,When ENTITYNAME28 first saw my father My father was twelve months old.,1
+274,ENTITYNAME53 asked Robert for a favor but he was refused.,ENTITYNAME53 was refused.,1
+275,ENTITYNAME29 spoke to Donna breaking her silence.,ENTITYNAME29 spoke to ENTITYNAME30 breaking ENTITYNAME29's silence.,1
+276,ENTITYNAME10 was playing cards with ENTITYNAME11 and was way ahead. If ENTITYNAME11 hadn't had a sudden run of good luck he would have lost.,ENTITYNAME10 would have lost.,0
+277,ENTITYNAME17 had to stop Bill from toying with the injured bird. He is very cruel.,ENTITYNAME17 is very cruel.,0
+278,ENTITYNAME47 asked Mary what time the library closes but she had forgotten.,Mary had forgotten.,1
+279,The sculpture rolled off the shelf because it wasn't anchored.,The sculpture wasn't anchored.,1
+280,ENTITYNAME71 believed that Rebecca suspected that she had stolen the watch.,ENTITYNAME71 believed that ENTITYNAME72 suspected that ENTITYNAME71 had stolen the watch.,1
+281,ENTITYNAME12 tried to call George on the phone but he wasn't successful.,ENTITYNAME2 wasn't successful.,0
+282,ENTITYNAME70 tucked her daughter Anne into bed so that she could work.,ENTITYNAME70 tucked her daughter ENTITYNAME84 into bed so that ENTITYNAME70 could work.,1
+283,ENTITYNAME53 asked Robert for a favor but he refused.,ENTITYNAME54 refused.,1
+284,I couldn't find a spoon so I tried using a pen to stir my coffee. But that turned out to be a bad idea because it got full of coffee.,The coffee got full of coffee.,0
+285,The path to the lake was blocked so we couldn't use it.,We couldn't use the path.,1
+286,Stretching her back the woman smiled at the girl.,Stretching the girl's back the woman smiled at the girl.,0
+287,Archaeologists have concluded that humans lived in Laputa 20000 years ago. They hunted for evidence on the river banks.,Archaeologists hunted for evidence on the river banks.,1
+288,I tried to paint a picture of an orchard with lemons in the lemon trees but they came out looking more like light bulbs.,The lemons came out looking more like light bulbs.,1
+289,This morning ENTITYNAME49 built a sand castle on the beach and put a toy flag in the highest tower but this afternoon the tide knocked it down.,This afternoon the tide knocked The sand castle down.,1
+290,The foxes are getting in at night and attacking the chickens. They have gotten very nervous.,The chickens have gotten very nervous.,1
+291,ENTITYNAME19 threw his schoolbag down to Ray after he reached the top of the stairs.,ENTITYNAME90 reached the top of the stairs.,0
+292,In July Kamtchatka declared war on Yakutsk. Since Yakutsk's army was much better equipped and ten times larger they were defeated within weeks.,Kamchatka was defeated within weeks.,1
+293,ENTITYNAME32 fired her trainer because she slept with her boyfriend.,The trainer slept with her boyfriend.,1
+294,ENTITYNAME17 had to stop Bill from toying with the injured bird. He is very compassionate.,ENTITYNAME17 is very compassionate.,1
+295,I used an old rag to clean the knife and then I put it in the trash.,I put the rag in the trash.,1
+296,Patting her back the woman smiled at the girl.,Patting the woman's back the woman smiled at the girl.,0
+297,The large ball crashed right through the table because it was made of styrofoam.,The table was made of styrofoam.,1
+298,I was trying to open the lock with the key but someone had filled the keyhole with chewing gum and I couldn't get it out.,I couldn't get the chewing gum out.,1
+299,ENTITYNAME11 can't leave work here until ENTITYNAME10 arrives to replace him. If ENTITYNAME10 had left home for work on time he would be gone by this time.,ENTITYNAME11 would be gone by this time.,1
+300,ENTITYNAME10 paid for ENTITYNAME56's college education but now ENTITYNAME56 acts as though it never happened. He is very hurt.,ENTITYNAME10 is very hurt.,1
+301,ENTITYNAME60 who had not told the government official that he was less than 21 when he filed for a homestead claim did not consider that he had done anything dishonest. Still anyone who knew that he was 19 years old could take his claim away from him.,Anyone who knew that he was 19 years old could take his claim away from ENTITYNAME60.,1
+302,ENTITYNAME70 took out her flute and played one of her favorite pieces. She has had it since she was a child.,She has had the flute since she was a child.,1
+303,ENTITYNAME7 and ENTITYNAME25 are passionately in love but ENTITYNAME25's parents are unhappy about it because they are snobs.,ENTITYNAME7 and Amy are snobs.,0
+304,This book introduced ENTITYNAME58 to Goethe; it was a fine selection of his writing.,It was a fine selection of ENTITYNAME58's writing.,1
+305,The foxes are getting in at night and attacking the chickens. I shall have to guard them.,I shall have to guard The chickens.,1
+306,The donkey wished a wart on its hind leg would disappear and it did.,The donkey wished a wart on its hind leg would disappear and wart did.,1
+307,I put the cake away in the refrigerator. It has a lot of butter in it.,The refrigerator has a lot of butter in it.,0
+308,The sack of potatoes had been placed below the bag of flour so it had to be moved first.,The sack of potatoes had to be moved first.,0
+309,ENTITYNAME66 looked down at the children's faces so puzzled and sad now. It was bad enough that they had to be denied so many things because he couldn't afford them.,He couldn't afford the faces.,0
+310,I put the heavy book on the table and it broke.,The heavy book broke.,0
+311,I used an old rag to clean the knife and then I put it in the drawer.,I put the knife in the drawer.,1
+312,ENTITYNAME53 asked Robert for a favor but he refused.,ENTITYNAME53 refused.,0
+313,Men had the right to keep their sons working for them until they were 21 years of age.,Men had the right to keep their sons working for them until the sons were 21 years of age.,1
+314,The older students were bullying the younger ones so we rescued them.,We rescued the younger students.,1
+315,This morning ENTITYNAME49 built a sand castle on the beach and put a toy flag in the highest tower but this afternoon the wind knocked it down.,This afternoon the wind knocked The flag down.,1
+316,The sack of potatoes had been placed above the bag of flour so it had to be moved first.,The sack of potatoes had to be moved first.,1
+317,ENTITYNAME84 gave birth to a daughter last month. She is a very charming baby.,ENTITYNAME84's daughter is a very charming baby.,1
+318,Tatyana managed two guitars and a bag and still could point out the Freemans: "Isn't it nice that they have come Mama!",Isn't it nice that the ENTITYNAME91s have come Mama!",1
+319,The painting in ENTITYNAME27's living room shows an oak tree. It is to the right of the bookcase.,The painting is to the right of the bookcase.,1
+320,ENTITYNAME27 was close to Mr. Singer's heels. He heard him calling for the captain promising him in the jargon everyone talked that night that not one thing should be damaged on the ship except only the ammunition but the captain and all his crew had best stay in the cabin until the work was over.,The captain and all ENTITYNAME27's crew had best stay in the cabin until the work was over.,0
+321,When Tatyana reached the cabin her mother was sleeping. She was careful not to disturb her undressing and climbing back into her berth.,She was careful not to disturb her undressing and climbing back into her mother's berth.,0
+322,ENTITYNAME27 heard Steve's feet going down the ladder. The door of the shop closed after him. He ran to look out the window.,ENTITYNAME1 ran to look out the window.,0
+323,The storekeepers stayed in town to run their stores and lived in the rooms behind them.,The storekeepers stayed in town to run their stores and lived in the rooms behind the storekeepers.,0
+324,ENTITYNAME76 envies Martin because he is very successful.,ENTITYNAME76 is very successful.,0
+325,Always before ENTITYNAME3 had helped Dad with his work. But he could not help him now for Dad said that his boss at the railroad company would not want anyone but him to work in the office.,Dad's boss at the railroad company would not want anyone but him to work in the office.,1
+326,ENTITYNAME14 worked hard to harvest his beans so he and his family would have enough to eat that winter His friend ENTITYNAME15 let him stack them in his barn where they would dry. Later he and ENTITYNAME16 would shell them and cook them for their Sunday dinners.,Later he and Tatyana would shell them and cook them for his and Tatyana's Sunday dinners.,1
+327,The journalists interviewed the stars of the new movie. They were very persistent so the interview lasted for a long time.,The stars were very persistent so the interview lasted for a long time.,0
+328,ENTITYNAME34 did a lot worse than her good friend Lucy on the test because she had studied so hard.,ENTITYNAME34 had studied so hard.,0
+329,Dr. ENTITYNAME92 informed Kate that she had cancer and presented several options for future treatment.,ENTITYNAME93 had cancer and presented several options for future treatment.,1
+330,This book introduced ENTITYNAME58 to ENTITYNAME59; it was a fine selection of his writing.,It was a fine selection of ENTITYNAME59's writing.,1
+331,During a game of tag ENTITYNAME63 ran from Luke because he was "it".,ENTITYNAME64 was "it".,1
+332,Mr. ENTITYNAME82 visited ENTITYNAME50's luxurious New York apartment thinking that it belonged to his son ENTITYNAME83. The result was that Mr. ENTITYNAME82 has decided to cancel ENTITYNAME83's allowance on the ground that he no longer requires his financial support.,Mr. ENTITYNAME82 no longer requires his financial support.,0
+333,ENTITYNAME33 tried frantically to stop her daughter from chatting at the party leaving us to wonder why she was behaving so strangely.,Alice was behaving so strangely.,1
+334,The signs over the shops' doors had pictures that indicated what work was done inside. Although more and more people were learning how to read each artisan still had signs not wishing to lose a possible patron merely because he happened to be illiterate.,Each artisan still had signs not wishing to lose a possible patron merely because the patron happened to be illiterate.,1
+335,The scientists are studying three species of fish that have recently been found living in the Indian Ocean. They began two years ago.,The fish began two years ago.,0
+336,ENTITYNAME17 took the rear seat while Bill claimed the front because his "Dibs!" was quicker.,ENTITYNAME17 took the rear seat while ENTITYNAME18 claimed the front because ENTITYNAME18's "Dibs!" was quicker.,1
+337,ENTITYNAME79's biography of the Spartan general ENTITYNAME80 conveys a vivid sense of the difficulties he faced in his research.,ENTITYNAME79's biography of the Spartan general ENTITYNAME80 conveys a vivid sense of the difficulties ENTITYNAME80 faced in his research.,0
+338,I stuck a pin through a carrot. When I pulled the pin out it left a hole.,The pin left a hole.,1
+339,ENTITYNAME23 was greatly influenced by Arnold though he lived two centuries later.,ENTITYNAME24 lived two centuries later.,0
+340,The politicians far away in Washington could not know the settlers so they must make rules to regulate them.,They must make rules to regular the settlers.,1
+341,As ENTITYNAME86 in the crop duster passed over Susan she could see the landing gear.,ENTITYNAME86 could see the landing gear.,0
+342,ENTITYNAME51 came over and sat down beside Alice. Gently she stroked her hair and let the child weep.,She stroked ENTITYNAME33's hair and let the child weep.,1
+343,ENTITYNAME13 has sold his house and bought a new one a few miles away. He will be moving out of it on Thursday.,He will be moving out of The new house on Thursday.,0
+344,ENTITYNAME51 came over and sat down beside Alice. Gently she stroked her hair and let the child weep.,She stroked ENTITYNAME51's hair and let the child weep.,0
+345,ENTITYNAME69 made sure to thank Susan for all the help she had recieved.,ENTITYNAME69 made sure to thank ENTITYNAME9 for all the help ENTITYNAME69 had recieved.,1
+346,I sat there feeling rather like a chappie I'd once read about in a book who murdered another cove and hid the body under the dining-room table and then had to be the life and soul of a dinner party with it there all the time.,He had to be the life and soul of a dinner party with the table there all the time.,0
+347,ENTITYNAME3 a timid teen-ager lives with his widowed mother in a Brooklyn housing project. ENTITYNAME3's father a gang leader was shot to death; his father's disciple ENTITYNAME88 takes ENTITYNAME3 under his wing and quickly molds him into a drug runner.,His father's disciple ENTITYNAME88 takes ENTITYNAME3 under his wing and quickly molds ENTITYNAME88 into a drug runner.,1
+348,The older students were bullying the younger ones so we punished them.,We punished the older students.,1
+349,At the Loebner competition the judges couldn't figure out which respondents were the chatbots because they were so advanced.,The chatbots were so advanced.,1
+350,ENTITYNAME48's parents came home and found her having sex with her boyfriend Paul. They were embarrassed about it.,ENTITYNAME48 and Paul were embarrassed about it.,1
+351,During a game of tag ENTITYNAME63 ran from Luke because he was "it".,ENTITYNAME63 was "it".,0
+352,I was trying to open the lock with the key but someone had filled the keyhole with chewing gum and I couldn't get it out.,I couldn't get the key out.,0
+353,ENTITYNAME33 looked for her friend ENTITYNAME87 in the crowd. Since she always has good luck ENTITYNAME33 spotted her quickly.,Since ENTITYNAME33 always has good luck ENTITYNAME33 spotted her quickly.,1
+354,Since it was raining I carried the newspaper over my backpack to keep it dry.,I carried the newspaper over my backpack to keep the newspaper dry.,0
+355,ENTITYNAME32 fired her trainer because she couldn't stand her boyfriend.,She couldn't stand the trainer's boyfriend.,1
+356,In July Kamtchatka declared war on Yakutsk. Since Yakutsk's army was much better equipped and ten times larger they were victorious within weeks.,Kamchatka was victorious within weeks.,0
+357,ENTITYNAME37 felt crushed when his longtime rival Bill revealed that he was the winner of the competition.,ENTITYNAME18 was the winner of the competition.,1
+358,ENTITYNAME10 paid for ENTITYNAME56's college education but now ENTITYNAME56 acts as though it never happened. He is very ungrateful.,Bob is very ungrateful.,0
+359,Mr. ENTITYNAME82 visited ENTITYNAME50's luxurious New York apartment thinking that it belonged to his son ENTITYNAME83. The result was that Mr. ENTITYNAME82 has decided to cancel ENTITYNAME83's allowance on the ground that he no longer requires his financial support.,He no longer requires Mr. ENTITYNAME82's financial support.,1
+360,The scientists are studying three species of fish that have recently been found living in the Indian Ocean. They appeared two years ago.,The scientists appeared two years ago.,0
+361,The painting in ENTITYNAME27's living room shows an oak tree. It is to the right of a house.,The painting is to the right of a house.,0
+362,The police arrested all of the gang members. They were trying to stop the drug trade in the neighborhood.,The gang members were trying to stop the drug trade in the neighborhood.,0
+363,Mr. ENTITYNAME94 was a man of uncertain temper and his general tendency was to think that David was a poor chump and that whatever step he took in any direction on his own account was just another proof of his innate idiocy.,Any direction on his own account was just another proof of Mr. ENTITYNAME94's innate idiocy.,0
+364,ENTITYNAME0 was jogging through the park when he saw a man juggling watermelons. He was very impressed.,The juggler was very impressed.,0
+365,The foxes are getting in at night and attacking the chickens. They have gotten very bold.,The chickens have gotten very bold.,0
+366,ENTITYNAME11 can't leave work here until ENTITYNAME10 arrives to replace him. If ENTITYNAME10 had left home for work on time he would be here by this time.,ENTITYNAME11 would be here by this time.,0
+367,In July Kamtchatka declared war on Yakutsk. Since Yakutsk's army was much better equipped and ten times larger they were victorious within weeks.,Yakutsk was victorious within weeks.,1
+368,ENTITYNAME70 tucked her daughter Anne into bed so that she could sleep.,ENTITYNAME70 tucked her daughter ENTITYNAME84 into bed so that ENTITYNAME70 could sleep.,0
+369,Every day after dinner Mr. ENTITYNAME57 took a long nap. Mark would let him sleep for an hour then wake him up scold him and get him to work. He needed to get him to finish his work because his work was beautiful.,ENTITYNAME27 needed to get him to finish his work because his work was beautiful.,1
+370,Men had the right to keep their sons working for them until they were 21 years of age.,Men had the right to keep their sons working for them until the men were 21 years of age.,0
+371,Everyone really loved the oatmeal cookies; only a few people liked the chocolate chip cookies. Next time we should make fewer of them.,We should make fewer of the chocolate chip cookies.,1
+372,ENTITYNAME28 is the only man alive who still remembers my father as an infant. When ENTITYNAME28 first saw my father he was twelve years old.,When ENTITYNAME28 first saw my father ENTITYNAME28 was twelve years old.,1
+373,Many people start to read ENTITYNAME12's books and can't put them down. They are popular because ENTITYNAME12 writes so well.,ENTITYNAME12's books are popular because ENTITYNAME12 writes so well.,1
+374,ENTITYNAME28 covered his eyes with his hands because the wind was blowing sand around. He opened them when the wind stopped.,He opened his hands when the wind stopped.,0
+375,The donkey wished a wart on its hind leg would disappear and it did.,The donkey wished a wart on its hind leg would disappear and donkey did.,0
+376,At the Loebner competition the judges couldn't figure out which respondents were the chatbots because they were so stupid.,The chatbots were so stupid.,0
+377,This book introduced ENTITYNAME58 to Goethe; it was a major influence on his writing.,It was a major influence on ENTITYNAME95's writing.,1
+378,I saw ENTITYNAME21 yelling at some guy in a military uniform with a huge red beard. I don't know who he was but he looked very unhappy.,I don't know who the guy in uniform was but he looked very unhappy.,1
+379,ENTITYNAME0 couldn't see the stage with Billy in front of him because he is so short.,ENTITYNAME40 is so short.,0
+380,ENTITYNAME2 got free tickets to the play but he gave them to Eric because he was not particularly eager to see it.,ENTITYNAME2 was not particularly eager to see it.,1
+381,ENTITYNAME33 was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album. Today she had to hunt for a button so she put the album on a chair without even opening it.,No time today to look at old pictures in Mama's favorite photo album.,0
+382,I was trying to open the lock with the key but someone had filled the keyhole with chewing gum and I couldn't get it in.,I couldn't get the chewing gum in.,0
+383,The trophy doesn't fit into the brown suitcase because it is too small.,The suitcase is too small.,1
+384,The lawyer asked the witness a question but he was reluctant to answer it.,The lawyer was reluctant to answer it.,0
+385,ENTITYNAME69 made sure to thank Susan for all the help she had recieved.,ENTITYNAME69 made sure to thank ENTITYNAME9 for all the help ENTITYNAME9 had recieved.,0
+386,ENTITYNAME27 became absorbed in Blaze the white horse. He was afraid the stable boys at the Burlington Stables struck at him and bullied him because he was timid so he took upon himself the feeding and care of the animal.,ENTITYNAME27 took upon himself the feeding and care of the animal.,1
+387,Tatyana managed two guitars and a bag and still could point out the Freemans: "Isn't it nice that they have come Mama!",Isn't it nice that the two guitars and a bag have come Mama!",0
+388,ENTITYNAME27 told ENTITYNAME76 many lies about himself which ENTITYNAME76 included in his book. He should have been more truthful.,ENTITYNAME76 should have been more truthful.,0
+389,ENTITYNAME19 threw his schoolbag down to Ray after he reached the bottom of the stairs.,ENTITYNAME90 reached the bottom of the stairs.,1
+390,When the sponsors of the bill got to the town hall they were surprised to find that the room was full of opponents. They were very much in the minority.,The opponents were very much in the minority.,0
+391,ENTITYNAME10 was playing cards with ENTITYNAME11 and was way ahead. If ENTITYNAME11 hadn't had a sudden run of good luck he would have lost.,ENTITYNAME11 would have lost.,1
+392,My meeting started at 4:00 and I needed to catch the train at 4:30 so there wasn't much time. Luckily it was short so it worked out.,The meeting was short so it worked out.,1
+393,ENTITYNAME0 couldn't see the stage with Billy in front of him because he is so tall.,ENTITYNAME0 is so tall.,0
+394,All the buttons up the back of ENTITYNAME65's plaid dress were buttoned outside-in. ENTITYNAME96e should have thought to button her up; but no she had left poor little ENTITYNAME65 to do the best she could alone.,She had left poor little ENTITYNAME65 to do the best Maude could alone.,0
+395,I'm sure that my map will show this building; it is very good.,The building is very good.,0
+396,ENTITYNAME19 gave Ralph a lift to school so he wouldn't have to walk.,ENTITYNAME20 wouldn't have to walk.,1
+397,ENTITYNAME78 explained his theory to Mark but he couldn't understand him.,ENTITYNAME78 couldn't understand him.,0
+398,In the middle of the outdoor concert the rain started falling but it continued until 10.,The rain continued until 10.,0
+399,ENTITYNAME37 was upset with Tom because the toaster he had bought from him didn't work.,The toaster ENTITYNAME37 had bought from him didn't work.,1
+400,ENTITYNAME17 took the rear seat while Bill claimed the front because his "Dibs!" was slow.,ENTITYNAME17 took the rear seat while ENTITYNAME18 claimed the front because ENTITYNAME18's "Dibs!" was slow.,0
+401,The table won't fit through the doorway because it is too wide.,The table is too wide.,1
+402,ENTITYNAME8 knocked on the door and Susan answered it. She invited her to come in.,ENTITYNAME9 invited her to come in.,1
+403,The foxes are getting in at night and attacking the chickens. I shall have to guard them.,I shall have to guard The foxes.,0
+404,The city councilmen refused the demonstrators a permit because they advocated violence.,The city councilmen advocated violence.,0
+405,ENTITYNAME10 paid for Charlie's college education. He is very generous.,ENTITYNAME56 is very generous.,0
+406,ENTITYNAME26 borrowed the book from the library because she needs it for an article she is working on. She writes it when she gets home from work.,She writes the article when she gets home from work.,1
+407,ENTITYNAME33 was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album. Today she had to hunt for a button so she put the album on a chair without even opening it.,No time today to look at old pictures in Alice's favorite photo album.,1
+408,ENTITYNAME7 broke both his ankles and he's walking with crutches. But a month or so from now they should be better.,The ankles should be better.,1
+409,The dog chased the cat which ran up a tree. It waited at the bottom.,The cat waited at the bottom.,0
+410,ENTITYNAME8 gave Joan candy because she wasn't hungry.,Joan wasn't hungry.,0
+411,I sallied out for a bit of food more to pass the time than because I wanted it.,I sallied out for a bit of food more to pass the time than because I wanted time.,0
+412,The fish ate the worm. It was hungry.,The fish was hungry.,1
+413,As ENTITYNAME86 in the crop duster passed over Susan she could see the landing gear.,Susan could see the landing gear.,1
+414,ENTITYNAME70 tucked her daughter Anne into bed so that she could sleep.,ENTITYNAME70 tucked her daughter ENTITYNAME84 into bed so that ENTITYNAME70's daughter could sleep.,1
+415,Mr. ENTITYNAME82 visited ENTITYNAME50's luxurious New York apartment thinking that it belonged to his son ENTITYNAME83. The result was that Mr. ENTITYNAME82 has decided to cancel ENTITYNAME83's allowance on the ground that he no longer requires his financial support.,Chester no longer requires his financial support.,0
+416,It was a summer afternoon and the dog was sitting in the middle of the lawn. After a while it got up and moved to a spot under the tree because it was cooler.,The dog was cooler.,0
+417,I'm sure that my map will show this building; it is very famous.,The map is very famous.,0
+418,We went to the lake because a shark had been seen at the ocean beach so it was a dangerous place to swim.,The ocean beach was a dangerous place to swim.,1
+419,ENTITYNAME27 was close to Mr. Singer's heels. He heard him calling for the captain promising him in the jargon everyone talked that night that not one thing should be damaged on the ship except only the ammunition but the captain and all his crew had best stay in the cabin until the work was over.,The captain and all the captain's crew had best stay in the cabin until the work was over.,1
+420,This book introduced ENTITYNAME58 to ENTITYNAME59; it was a major influence on his writing.,It was a major influence on ENTITYNAME59's writing.,0
+421,ENTITYNAME27 told ENTITYNAME76 many lies about himself which ENTITYNAME76 included in his book. He should have been more truthful.,ENTITYNAME27 should have been more truthful.,1
+422,ENTITYNAME21 signaled the barman and gestured toward his empty glass.,ENTITYNAME21 signaled the barman and gestured toward The barman's empty glass.,0
+423,ENTITYNAME9 knew that Ann's son had been in a car accident because she told her about it.,Ann told her about it.,1
+424,The table was piled high with food and on the floor beside it there were crocks baskets and a five-quart pail of milk.,Beside the food there were crocks baskets and a five-quart pail of milk.,0
+425,Equally swoon-worthy is C.K. Dexter Haven a pallid young dandy holding a jade-handled walking stick with a poodle asleep at his feet.,Equally swoon-worthy is C.K. Dexter Haven a pallid young dandy holding a jade-handled walking stick with a poodle asleep at the poodle's feet.,0
+426,ENTITYNAME28 watched TV while George went out to buy groceries. After an hour he got up.,ENTITYNAME2 got up.,0
+427,ENTITYNAME1 follows Fred's example in everything. He admires him hugely.,ENTITYNAME1 admires him hugely.,1
+428,ENTITYNAME29 spoke to Donna breaking her concentration.,ENTITYNAME29 spoke to ENTITYNAME30 breaking ENTITYNAME29's concentration.,0
+429,When Tatyana reached the cabin her mother was sleeping. She was careful not to disturb her  undressing and climbing back into her berth.,She was careful not to disturb Tatyana  undressing and climbing back into her berth.,0
+430,ENTITYNAME10 paid for ENTITYNAME56's college education but now ENTITYNAME56 acts as though it never happened. He is very ungrateful.,ENTITYNAME56 is very ungrateful.,1
+431,ENTITYNAME7 and ENTITYNAME25 are passionately in love but ENTITYNAME25's parents are unhappy about it because they are fifteen.,ENTITYNAME25's parents are fifteen.,0
+432,ENTITYNAME69 made sure to thank Susan for all the help she had given.,ENTITYNAME69 made sure to thank ENTITYNAME9 for all the help ENTITYNAME69 had given.,0
+433,ENTITYNAME19 said "Check" to Ralph as he moved his bishop.,ENTITYNAME19 said "Check" to ENTITYNAME20 as he moved ENTITYNAME20's bishop.,0
+434,When the sponsors of the bill got to the town hall they were surprised to find that the room was full of opponents. They were very much in the minority.,The sponsors were very much in the minority.,1
+435,The sculpture rolled off the shelf because it wasn't level.,The sculpture wasn't level.,0
+436,ENTITYNAME13's uncle can still beat him at tennis even though he is 30 years younger.,ENTITYNAME13's uncle is 30 years younger.,0
+437,I saw ENTITYNAME21 yelling at some guy in a military uniform with a huge red beard. I don't know why he was but he looked very unhappy.,I don't know why ENTITYNAME21 was but he looked very unhappy.,1
+438,Many people start to read ENTITYNAME12's books and can't put them down. They are gripped because ENTITYNAME12 writes so well.,People are gripped because ENTITYNAME12 writes so well.,1
+439,ENTITYNAME7's drawing was hung just above Tina's and it did look much better with another one above it.,ENTITYNAME7's drawing did look much better with another one above it.,0
+440,We went to the lake because a shark had been seen at the ocean beach so it was a dangerous place to swim.,The lake was a dangerous place to swim.,0
+441,Every day after dinner Mr. ENTITYNAME57 took a long nap. Mark would let him sleep for an hour then wake him up scold him and get him to work. He needed to get him to finish his work because his work was beautiful.,Mr. ENTITYNAME57 needed to get him to finish his work because his work was beautiful.,0
+442,The man lifted the boy onto his bunk bed.,The man lifted the boy onto the boy's bunk bed.,1
+443,So ENTITYNAME27 slept. It was daylight when he woke with Warren's hand upon his shoulder.,It was daylight when he woke with ENTITYNAME97's hand upon Mark's shoulder.,1
+444,ENTITYNAME37 felt vindicated when his longtime rival Bill revealed that he was the winner of the competition.,ENTITYNAME18 was the winner of the competition.,0
+445,The delivery truck zoomed by the school bus because it was going so fast.,The delivery truck was going so fast.,1
+446,ENTITYNAME33 looked for her friend Jade in the crowd. Since she always wears a red turban ENTITYNAME33 spotted her quickly.,Since ENTITYNAME87 always wears a red turban Alice spotted her quickly.,1
+447,In the storm the tree fell down and crashed through the roof of my house. Now I have to get it repaired.,Now I have to get The tree repaired.,0
+448,ENTITYNAME70 tucked her daughter Anne into bed so that she could work.,ENTITYNAME70 tucked her daughter ENTITYNAME84 into bed so that ENTITYNAME70's daughter could work.,0
+449,ENTITYNAME19 said "Check" to Ralph as he moved his bishop.,ENTITYNAME19 said "Check" to ENTITYNAME20 as he moved ENTITYNAME19's bishop.,1
+450,ENTITYNAME10 collapsed on the sidewalk. Soon he saw Carl coming to help. He was very concerned.,ENTITYNAME10 was very concerned.,0
+451,The man couldn't lift his son because he was so heavy.,The man was so heavy.,0
+452,I used an old rag to clean the knife and then I put it in the drawer.,I put the rag in the drawer.,0
+453,The storekeepers stayed in town to run their stores and lived in the rooms behind them.,The storekeepers stayed in town to run their stores and lived in the rooms behind the stores.,1
+454,Many people start to read ENTITYNAME12's books and can't put them down. They are gripped because ENTITYNAME12 writes so well.,ENTITYNAME12's books are gripped because ENTITYNAME12 writes so well.,0
+455,ENTITYNAME21 yelled at Kevin because he was so upset.,ENTITYNAME22 was so upset.,0
+456,ENTITYNAME74 ceded the presidency to ENTITYNAME75 because he was less popular.,ENTITYNAME75 was less popular.,0
+457,ENTITYNAME33 was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album. Today she had to hunt for a button so she put the album on a chair without even opening it.,She put the album on a chair without even opening the chair.,0
+458,ENTITYNAME7 took French classes from Adam because he was eager to speak it fluently.,ENTITYNAME7 was eager to speak it fluently.,1
+459,The city councilmen refused the demonstrators a permit because they feared violence.,The demonstrators feared violence.,0
+460,ENTITYNAME10 paid for ENTITYNAME56's college education but now ENTITYNAME56 acts as though it never happened. He is very hurt.,ENTITYNAME56 is very hurt.,0
+461,Look! There is a shark swimming right below that duck! It had better get away to safety fast!,The duck had better get away to safety fast!,1
+462,ENTITYNAME10 was playing cards with ENTITYNAME11 and was way ahead. If ENTITYNAME11 hadn't had a sudden run of good luck he would have won.,ENTITYNAME10 would have won.,1
+463,The customer walked into the bank and stabbed one of the tellers. He was immediately taken to the police station.,The customer was immediately taken to the police station.,1
+464,ENTITYNAME3 a timid teen-ager lives with his widowed mother in a Brooklyn housing project. ENTITYNAME3's father a gang leader was shot to death; his father's disciple ENTITYNAME88 takes ENTITYNAME3 under his wing and quickly molds him into a drug runner.,His father's disciple ENTITYNAME88 takes ENTITYNAME3 under his wing and quickly molds ENTITYNAME3 into a drug runner.,0
+465,This book introduced ENTITYNAME58 to Goethe; it was a fine selection of his writing.,It was a fine selection of ENTITYNAME95's writing.,0
+466,It was a summer afternoon and the dog was sitting in the middle of the lawn. After a while it got up and moved to a spot under the tree because it was cooler.,The spot under the tree was cooler.,1
+467,The drain is clogged with hair. It has to be removed.,The hair has to be removed.,1
+468,We went to the lake because a shark had been seen at the ocean beach so it was a safer place to swim.,The lake was a safer place to swim.,1
+469,The firemen arrived after the police because they were coming from so far away.,The firemen were coming from so far away.,1
+470,ENTITYNAME71 believed that Rebecca regretted that she had stolen the watch.,ENTITYNAME71 believed that ENTITYNAME72 regretted that ENTITYNAME71 had stolen the watch.,0
+471,ENTITYNAME40 cried because Toby wouldn't accept his toy.,ENTITYNAME40 cried because ENTITYNAME41 wouldn't accept ENTITYNAME40's toy.,1
+472,Dr. ENTITYNAME92 informed Kate that she had retired and presented several options for future treatment.,ENTITYNAME93 had retired and presented several options for future treatment.,0
+473,The Wainwrights treated Mr. ENTITYNAME89 like a prince until he made his will in their favor; then they treated him like dirt. Folks said he died just to be rid of their everlasting nagging.,Folks said he died just to be ride of the Wainwrights' everlasting nagging.,1
+474,The actress used to be named Terpsichore but she changed it to Tina a few years ago because she figured it was too hard to pronounce.,ENTITYNAME98 was too hard to pronounce.,0
+475,Even before they reached town they could hear a sound like corn popping. ENTITYNAME65 asked what it was and Dad said it was firecrackers.,ENTITYNAME65 asked what the town was.,0
+476,Dr. ENTITYNAME92 informed Kate that she had cancer and presented several options for future treatment.,Dr. ENTITYNAME92 had cancer and presented several options for future treatment.,0
+477,I saw ENTITYNAME21 yelling at some guy in a military uniform with a huge red beard. I don't know who he was but he looked very unhappy.,I don't know who ENTITYNAME21 was but he looked very unhappy.,0
+478,ENTITYNAME13 paid the detective after he delivered the final report on the case.,The detective delivered the final report on the case.,1
+479,ENTITYNAME8 knocked on Susan's door but she did not get an answer.,ENTITYNAME8 did not get an answer.,1
+480,Tatyana knew that Grandma always enjoyed serving an abundance of food to her guests. Now Tatyana watched as Grandma gathered Tatyana's small mother into a wide scrawny embrace and then propelled her to the table lifting her shawl from her shoulders seating her in the place of honor and saying simply: "There's plenty.",Grandma gathered Tatyana's small mother into a wide scrawny embrace and then propelled Tatyana's mother to the table.,1
+481,ENTITYNAME9 knows all about Ann's personal problems because she is nosy.,ENTITYNAME9 is nosy.,1
+482,ENTITYNAME33 was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album. Today she had to hunt for a button so she put the album on a chair without even opening it.,She put the album on a chair without even opening the album.,1
+483,The sun was covered by a thick cloud all morning but luckily by the time the picnic started it was gone.,The sun was gone.,0
+484,When Tatyana reached the cabin her mother was sleeping. She was careful not to disturb her undressing and climbing back into her berth.,She was careful not to disturb her undressing and climbing back into Tatyana's berth.,1
+485,ENTITYNAME21 signaled the barman and gestured toward his empty glass.,ENTITYNAME21 signaled the barman and gestured toward ENTITYNAME21's empty glass.,1
+486,The fish ate the worm. It was tasty.,The fish was tasty.,0
+487,The lawyer asked the witness a question but he was reluctant to repeat it.,The witness was reluctant to repeat it.,0
+488,The cat was lying by the mouse hole waiting for the mouse but it was too impatient.,The cat was too impatient.,1
+489,ENTITYNAME76 envies Martin although he is very successful.,ENTITYNAME76 is very successful.,1
+490,In the storm the tree fell down and crashed through the roof of my house. Now I have to get it removed.,Now I have to get The roof removed.,0
+491,ENTITYNAME2 got free tickets to the play but he gave them to Eric even though he was particularly eager to see it.,ENTITYNAME2 was particularly eager to see it.,1
+492,The painting in ENTITYNAME27's living room shows an oak tree. It is to the right of a house.,The oak tree is to the right of a house.,1
+493,Look! There is a minnow swimming right below that duck! It had better get away to safety fast!,The minnow had better get away to safety fast!,1
+494,The painting in ENTITYNAME27's living room shows an oak tree. It is to the right of the bookcase.,The oak tree is to the right of the bookcase.,0
+495,I stuck a pin through a carrot. When I pulled the pin out it had a hole.,The pin had a hole.,0
+496,ENTITYNAME9 knows all about Ann's personal problems because she is indiscreet.,ENTITYNAME9 is indiscreet.,0
+497,ENTITYNAME71 believed that Rebecca suspected that she had stolen the watch.,ENTITYNAME71 believed that ENTITYNAME72 suspected that ENTITYNAME72 had stolen the watch.,0
+498,ENTITYNAME40 cried because Toby wouldn't share his toy.,ENTITYNAME40 cried because ENTITYNAME41 wouldn't share ENTITYNAME40's toy.,0
+499,I sat there feeling rather like a chappie I'd once read about in a book who murdered another cove and hid the body under the dining-room table and then had to be the life and soul of a dinner party with it there all the time.,He had to be the life and soul of a dinner party with the book there all the time.,0
+500,ENTITYNAME11 can't leave work here until ENTITYNAME10 arrives to replace him. If ENTITYNAME10 had left home for work on time he would be gone by this time.,ENTITYNAME10 would be gone by this time.,0
+501,The table was piled high with food and on the floor beside it there were crocks baskets and a five-quart pail of milk.,Beside the floor there were crocks baskets and a five-quart pail of milk.,0
+502,ENTITYNAME79's biography of the Spartan general ENTITYNAME80 conveys a vivid sense of the difficulties he faced in his childhood.,ENTITYNAME79's biography of the Spartan general ENTITYNAME80 conveys a vivid sense of the difficulties Goodman faced in his childhood.,0
+503,The woman held the girl against her will.,The woman held the girl against the woman's will.,0
+504,ENTITYNAME8 knocked on Susan's door but there was no answer. She was out.,ENTITYNAME9 was out.,1
+505,ENTITYNAME0 was doing research in the library when he heard a man humming and whistling. He was very annoying.,The man was very annoying.,1
+506,ENTITYNAME27 was close to Mr. Singer's heels. He heard him calling for the captain promising him in the jargon everyone talked that night that not one thing should be damaged on the ship except only the ammunition but the captain and all his crew had best stay in the cabin until the work was over.,He heard ENTITYNAME27 calling for the captain.,0
+507,ENTITYNAME10 paid for Charlie's college education. He is very grateful.,ENTITYNAME10 is very grateful.,0
+508,In the middle of the outdoor concert the rain started falling but it continued until 10.,The concert continued until 10.,1
+509,We had hoped to place copies of our newsletter on all the chairs in the auditorium but there were simply not enough of them.,There were simply not enough chairs.,0
+510,ENTITYNAME27 became absorbed in Blaze the white horse. He was afraid the stable boys at the Burlington Stables struck at him and bullied him because he was timid so he took upon himself the feeding and care of the animal.,ENTITYNAME81 was afraid the stable boys at the Burlington Stables struck at him and bullied him.,0
+511,ENTITYNAME84 gave birth to a daughter last month. She is a very charming woman.,ENTITYNAME84 is a very charming woman.,1
+512,So ENTITYNAME27 slept. It was daylight when he woke with Warren's hand upon his shoulder.,It was daylight when he woke with ENTITYNAME97's hand upon ENTITYNAME97's shoulder.,0
+513,ENTITYNAME27 was close to Mr. Singer's heels. He heard him calling for the captain promising him in the jargon everyone talked that night that not one thing should be damaged on the ship except only the ammunition but the captain and all his crew had best stay in the cabin until the work was over.,ENTITYNAME27 heard him calling for the captain,1
+514,Stretching her back the woman smiled at the girl.,Stretching the woman's back the woman smiled at the girl.,1
+515,ENTITYNAME18 passed the half-empty plate to John because he was hungry.,ENTITYNAME18 was hungry.,0
+516,The actress used to be named Terpsichore but she changed it to Tina a few years ago because she figured it was too hard to pronounce.,Terpsichore was too hard to pronounce.,1
+517,ENTITYNAME99 didn't get angry with Sally who had cut her off because she stopped and apologized.,ENTITYNAME99 stopped and apologized.,0
+518,The politicians far away in Washington could not know the settlers so they must make rules to regulate them.,The settlers must make rules to regulate them.,0
+519,The trophy doesn't fit into the brown suitcase because it is too large.,The trophy is too large.,1
+520,All the buttons up the back of ENTITYNAME65's plaid dress were buttoned outside-in. ENTITYNAME96e should have thought to button her up; but no she had left poor little ENTITYNAME65 to do the best she could alone.,She had left poor little ENTITYNAME65 to do the best ENTITYNAME65 could alone.,1
+521,ENTITYNAME33 tried frantically to stop her daughter from barking at the party leaving us to wonder why she was behaving so strangely.,ENTITYNAME33's daughter was behaving so strangely.,1
+522,The firemen arrived before the police because they were coming from so far away.,The police were coming from so far away.,1
+523,ENTITYNAME17 had to stop Bill from toying with the injured bird. He is very compassionate.,ENTITYNAME18 is very compassionate.,0
+524,What about the time you cut up tulip bulbs in the hamburgers because you thought they were onions?,You thought hamburgers were onions?,0
+525,ENTITYNAME19 gave Ralph a lift to school so he wouldn't have to drive alone.,ENTITYNAME20 wouldn't have to drive alone.,0
+526,Even before they reached town they could hear a sound like corn popping. ENTITYNAME65 asked what it was and Dad said it was firecrackers.,ENTITYNAME65 asked what the corn was.,0
+527,ENTITYNAME19 threw his schoolbag down to Ray after he reached the bottom of the stairs.,ENTITYNAME19 reached the bottom of the stairs.,0
+528,ENTITYNAME84 gave birth to a daughter last month. She is a very charming baby.,ENTITYNAME84 is a very charming baby.,0
+529,ENTITYNAME33 was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album. Today she had to hunt for a button so she put the album on a chair without even opening it.,Alice had to hunt for a button.,1
+530,ENTITYNAME28 watched TV while George went out to buy groceries. After an hour he got back.,ENTITYNAME28 got back.,0
+531,The woman held the girl against her chest.,The woman held the girl against the girl's chest.,0
+532,ENTITYNAME7 broke both his ankles and he's walking with crutches. But a month or so from now they should be unnecessary.,The ankles should be unnecessary.,0
+533,ENTITYNAME13 has sold his house and bought a new one a few miles away. He will be moving into it on Thursday.,He will be moving into The old house on Thursday.,0
+534,ENTITYNAME48's parents came home and found her having sex with her boyfriend Paul. They were embarrassed about it.,ENTITYNAME48's parents were embarrassed about it.,0
+535,ENTITYNAME7 took French classes from Adam because he was eager to speak it fluently.,ENTITYNAME11 was eager to speak it fluently.,0
+536,ENTITYNAME0 ordered Bill to leave so an hour later he left.,ENTITYNAME0 left.,0
+537,Mr. ENTITYNAME82 visited ENTITYNAME50's luxurious New York apartment thinking that it belonged to his son ENTITYNAME83. The result was that Mr. ENTITYNAME82 has decided to cancel ENTITYNAME83's allowance on the ground that he no longer requires his financial support.,He no longer requires ENTITYNAME83's financial support.,0
+538,ENTITYNAME99 didn't get angry with Sally who had cut her off because she stopped and counted to ten.,Beth stopped and counted to ten.,1
+539,By rolling over in her upper berth Tatyana could look over the edge of it and see her mother plainly. How very small and straight and rigid she lay in the bunk below! Her eyes were closed but Tatyana doubted if she slept.,How very small and straight and rigid Tatyana lay in the bunk below!,0
+540,The donkey wished a wart on its hind leg would disappear and it did.,The donkey wished a wart on its hind leg would disappear and leg did.,0
+541,Since ENTITYNAME50 was dependent on Uncle Vernon he couldn't very well marry without his approval,He couldn't very well marry without Uncle ENTITYNAME85's approval,1
+542,ENTITYNAME32 fired her trainer because she couldn't stand her boyfriend.,The trainer couldn't stand her boyfriend.,0
+543,ENTITYNAME18 passed the gameboy to John because his turn was over.,ENTITYNAME0's turn was over.,0
+544,The father carried the sleeping boy in his bassinet.,The father carried the sleeping boy in the boy's bassinet.,1
+545,ENTITYNAME79's biography of the Spartan general ENTITYNAME80 conveys a vivid sense of the difficulties he faced in his childhood.,ENTITYNAME79's biography of the Spartan general ENTITYNAME80 conveys a vivid sense of the difficulties ENTITYNAME80 faced in his childhood.,1
+546,There is a gap in the wall. You can see the garden behind it.,You can see the garden through the gap.,0
+547,Always before ENTITYNAME3 had helped Dad with his work. But he could not help him now for Dad said that his boss at the railroad company would not want anyone but him to work in the office.,ENTITYNAME3's boss at the railroad company would not want anyone but him to work in the office.,0
+548,ENTITYNAME70 took out her flute and played one of her favorite pieces. She has loved it since she was a child.,She has loved the flute since she was a child.,0
+549,When they had eventually calmed down a bit and had gotten home Mr. ENTITYNAME100ley put the magic pebble in an iron safe. Some day they might want to use it  but really for now what more could they wish for?,Some day they might want to use the magic pebble.,1
+550,The actress used to be named Terpsichore but she changed it to Tina a few years ago because she figured it was easier to pronounce.,ENTITYNAME98 was easier to pronounce.,1
+551,The man lifted the boy onto his shoulders.,The man lifted the boy onto the boy's shoulders.,0
+552,The delivery truck zoomed by the school bus because it was going so slow.,The delivery truck was going so slow.,0
+553,They broadcast an announcement but a subway came into the station and I couldn't hear it.,I couldn't hear the announcement.,1
+554,ENTITYNAME66 looked down at the children's faces so puzzled and sad now. It was bad enough that they had to be denied so many things because he couldn't afford them.,It was bad enough that the children had to be denied so many things because he couldn't afford them.,1
+555,We went to the lake because a shark had been seen at the ocean beach so it was a safer place to swim.,The ocean beach was a safer place to swim.,0
+556,ENTITYNAME37 was upset with Tom because the toaster he had sold him didn't work.,The toaster ENTITYNAME19 had sold him didn't work.,1
+557,My meeting started at 4:00 and I needed to catch the train at 4:30 so there wasn't much time. Luckily it was delayed so it worked out.,The train was delayed so it worked out.,1
+558,There is a gap in the wall. You can see the garden through it.,You can see the garden through the gap.,1
+559,ENTITYNAME60 who had not told the government official that he was less than 21 when he filed for a homestead claim did not consider that he had done anything dishonest. Still anyone who knew that he was 19 years old could take his claim away from him.,ENTITYNAME60 who had not told the government official that he was less than 21 when he filed for a homestead claim did not consider that ENTITYNAME60 had done anything dishonest.,1
+560,ENTITYNAME55 was happy to trade me her sweater for my jacket. She thinks it looks great on her.,The jacket looks great on her.,1
+561,ENTITYNAME4 is holding captive a scientist Dr. ENTITYNAME5 who has invented a device that turns animals invisible; ENTITYNAME4 plans to use it on Geoffrey and send him to steal nuclear material from an army vault.,ENTITYNAME4 plans to use it on ENTITYNAME6 and send Dr. ENTITYNAME5 to steal nuclear material from an army vault.,0
+562,ENTITYNAME28 watched TV while George went out to buy groceries. After an hour he got up.,ENTITYNAME28 got up.,1
+563,I put the heavy book on the table and it broke.,The table broke.,1
+564,We had hoped to place copies of our newsletter on all the chairs in the auditorium but there were simply too many of them.,There were simply too many chairs.,1
+565,ENTITYNAME7's drawing was hung just above Tina's and it did look much better with another one above it.,ENTITYNAME98's drawing did look much better with another one above it.,1
+566,ENTITYNAME45's mother had died long ago and her education had been managed by an excellent woman as governess.,ENTITYNAME45's education had been managed by an excellent woman as governess.,1
+567,ENTITYNAME0 hired Bill to take care of him.,ENTITYNAME0 hired ENTITYNAME18 to take care of ENTITYNAME0.,1
+568,ENTITYNAME0 ordered Bill to leave so an hour later he left.,ENTITYNAME18 left.,1
+569,ENTITYNAME9 knows all about Ann's personal problems because she is indiscreet.,ENTITYNAME47 is indiscreet.,1
+570,Archaeologists have concluded that humans lived in Laputa 20000 years ago. They hunted for evidence on the river banks.,Prehistoric humans hunted for evidence on the river banks.,0
+571,The signs over the shops' doors had pictures that indicated what work was done inside. Although more and more people were learning how to read each artisan still had signs not wishing to lose a possible patron merely because he happened to be illiterate.,Each artisan still had signs not wishing to lose a possible patron merely because the artisan happened to be illiterate.,0
+572,The storekeepers stayed in town to run their stores and lived in the rooms behind them.,The storekeepers stayed in town to run their stores and lived in the rooms behind the rooms.,0
+573,ENTITYNAME8 knocked on Susan's door but there was no answer. She was disappointed.,ENTITYNAME8 was disappointed.,1
+574,ENTITYNAME8 knocked on Susan's door but there was no answer. She was disappointed.,ENTITYNAME9 was disappointed.,0
+575,ENTITYNAME60 who had not told the government official that he was less than 21 when he filed for a homestead claim did not consider that he had done anything dishonest. Still anyone who knew that he was 19 years old could take his claim away from him.,ENTITYNAME60 who had not told the government official that he was less than 21 when he filed for a homestead claim did not consider that the government official had done anything dishonest.,0
+576,The sculpture rolled off the shelf because it wasn't anchored.,The shelf wasn't anchored.,0
+577,The scientists are studying three species of fish that have recently been found living in the Indian Ocean. They appeared two years ago.,The fish appeared two years ago.,1
+578,ENTITYNAME33 was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album. Today she had to hunt for a button so she put the album on a chair without even opening it.,She put the album on a chair without even opening the button.,0
+579,The police arrested all of the gang members. They were trying to run the drug trade in the neighborhood.,The gang members were trying to run the drug trade in the neighborhood.,1
+580,I can't cut that tree down with that axe; it is too small.,The tree is too small.,0
+581,The sun was covered by a thick cloud all morning but luckily by the time the picnic started it was gone.,The cloud was gone.,1
+582,The path to the lake was blocked so we couldn't reach it.,We couldn't reach the path.,0
+583,ENTITYNAME28 and Alice had very warm down coats but they were not enough for the cold in Alaska.,ENTITYNAME28 and Alice were not enough for the cold in Alaska.,0
+584,ENTITYNAME43 visited Cooper's grave in 1765. At that date he had been travelling for five years.,ENTITYNAME43 had been travelling for five years.,1
+585,The man lifted the boy onto his bunk bed.,The man lifted the boy onto the man's bunk bed.,0
+586,ENTITYNAME17 took the rear seat while Bill claimed the front because his "Dibs!" was slow.,ENTITYNAME17 took the rear seat while ENTITYNAME18 claimed the front because ENTITYNAME17's "Dibs!" was slow.,1
+587,The woman held the girl against her will.,The woman held the girl against the girl's will.,1
+588,I couldn't find a spoon so I tried using a pen to stir my coffee. But that turned out to be a bad idea because it got full of coffee.,The pen got full of coffee.,1
+589,This book introduced ENTITYNAME58 to Goethe; it was a major influence on his writing.,It was a major influence on ENTITYNAME58's writing.,0
+590,As ENTITYNAME42 carried Tommy up the long winding steps his legs ached.,ENTITYNAME42's legs ached.,1
+591,Dr. ENTITYNAME92 informed Kate that she had retired and presented several options for future treatment.,Dr. ENTITYNAME92 had retired and presented several options for future treatment.,1
+592,I poured water from the bottle into the cup until it was full.,The bottle was full.,0
+593,My meeting started at 4:00 and I needed to catch the train at 4:30 so there wasn't much time. Luckily it was short so it worked out.,The train was short so it worked out.,0
+594,ENTITYNAME7 tried to paint a picture of shepherds with sheep but they ended up looking more like dogs.,The shepherds ended up looking more like dogs.,0
+595,ENTITYNAME33 tried frantically to stop her daughter from barking at the party leaving us to wonder why she was behaving so strangely.,Alice was behaving so strangely.,0
+596,ENTITYNAME45's mother had died long ago and her place had been taken by an excellent woman as governess.,ENTITYNAME45's place had been taken by an excellent woman as governess.,0
+597,ENTITYNAME70 took out her flute and played one of her favorite pieces. She has had it since she was a child.,She has had the piece since she was a child.,0
+598,ENTITYNAME19 threw his schoolbag down to Ray after he reached the top of the stairs.,ENTITYNAME19 reached the top of the stairs.,1
+599,ENTITYNAME27 was close to Mr. Singer's heels. He heard him calling for the captain promising him in the jargon everyone talked that night that not one thing should be damaged on the ship except only the ammunition but the captain and all his crew had best stay in the cabin until the work was over.,The captain and all Mr. ENTITYNAME35's crew had best stay in the cabin until the work was over.,0
+600,The actress used to be named Terpsichore but she changed it to Tina a few years ago because she figured it was easier to pronounce.,Terpsichore was easier to pronounce.,0
+601,ENTITYNAME28 is the only man still alive who remembers my great-grandfather. He was a remarkable man.,ENTITYNAME28 was a remarkable man.,0
+602,ENTITYNAME13 paid the detective after he received the final report on the case.,The detective received the final report on the case.,0
+603,ENTITYNAME34 did a lot worse than her good friend Lucy on the test because she had studied so hard.,ENTITYNAME73 had studied so hard.,1
+604,Every day after dinner Mr. ENTITYNAME57 took a long nap. Mark would let him sleep for an hour then wake him up scold him and get him to work. He needed to get him to finish his work because his work was beautiful.,ENTITYNAME27's work was beautiful.,0
+605,ENTITYNAME12 tried to call George on the phone but he wasn't available.,ENTITYNAME12 wasn't available.,0
+606,ENTITYNAME29 spoke to Donna breaking her silence.,ENTITYNAME29 spoke to ENTITYNAME30 breaking ENTITYNAME30's silence.,0
+607,The Dakota prairie lay so warm and bright under the shining sun that it did not seem possible that it had ever been swept by the winds and snows of that hard winter.,It did not seem possible that the sun had ever been swept by the winds and snows of that hard winter.,0
+608,The older students were bullying the younger ones so we punished them.,We punished the younger students.,0
+609,Many people start to read ENTITYNAME12's books and can't put them down. They are popular because ENTITYNAME12 writes so well.,People are popular because ENTITYNAME12 writes so well.,0
+610,ENTITYNAME37 was upset with Tom because the toaster he had bought from him didn't work.,The toaster ENTITYNAME19 had bought from him didn't work.,0
+611,There is a pillar between me and the stage and I can't see it.,I can't see around the pillar.,0
+612,ENTITYNAME47 asked Mary what time the library closes but she had forgotten.,Ann had forgotten.,0
+613,ENTITYNAME0 hired himself out to Bill to take care of him.,ENTITYNAME0 hired himself out to ENTITYNAME18 to take care of ENTITYNAME18.,1
+614,Then Dad figured out how much the man owed the store; to that he added the man's board-bill at the cook-shanty. He subtracted that amount from the man's wages and made out his check,Dad subtracted that amount from the man's wages.,1
+615,The scientists are studying three species of fish that have recently been found living in the Indian Ocean. They began two years ago.,The scientists began two years ago.,1
+616,ENTITYNAME45's mother had died long ago and her education had been managed by an excellent woman as governess.,ENTITYNAME45's mother's education had been managed by an excellent woman as governess.,0
+617,ENTITYNAME78 explained his theory to Mark but he couldn't understand him.,Mark couldn't understand him.,1
+618,I sat there feeling rather like a chappie I'd once read about in a book who murdered another cove and hid the body under the dining-room table and then had to be the life and soul of a dinner party with it there all the time.,He had to be the life and soul of a dinner party with the life and soul there all the time.,0
+619,ENTITYNAME21 comforted Kevin because he was so upset.,ENTITYNAME21 was so upset.,0
+620,It is not easy to space buttonholes exactly the same distance apart and it is very difficult to cut them precisely the right size. The tiniest slip of the scissors will make the hole too large and even one thread uncut will leave it too small.,Even one thread uncut will leave the hole too small.,1
+621,ENTITYNAME0 hired himself out to Bill to take care of him.,ENTITYNAME0 hired himself out to ENTITYNAME18 to take care of ENTITYNAME0.,0
+622,ENTITYNAME0 couldn't see the stage with Billy in front of him because he is so tall.,ENTITYNAME40 is so tall.,1
+623,Patting her back the woman smiled at the girl.,Patting the girl's back the woman smiled at the girl.,1
+624,I used an old rag to clean the knife and then I put it in the trash.,I put the knife in the trash.,0
+625,Since it was raining I carried the newspaper in my backpack to keep it dry.,I carried the newspaper in my backpack to keep the backpack dry.,0
+626,The sculpture rolled off the shelf because it wasn't level.,The shelf wasn't level.,1
+627,ENTITYNAME32 fired her trainer because she couldn't stand her boyfriend.,ENTITYNAME32 couldn't stand her boyfriend.,1
+628,By rolling over in her upper berth Tatyana could look over the edge of it and see her mother plainly. How very small and straight and rigid she lay in the bunk below! Her eyes were closed but Tatyana doubted if she slept.,Tatyana doubted if Tatyana slept.,0
+629,ENTITYNAME7 and ENTITYNAME25 are passionately in love but ENTITYNAME25's parents are unhappy about it because they are fifteen.,ENTITYNAME7 and Amy are fifteen.,1
+630,When ENTITYNAME61 dropped his ice cream ENTITYNAME62 giggled so father gave him a sympathetic look.,Father gave ENTITYNAME62 a sympathetic look.,0
+631,ENTITYNAME27 told ENTITYNAME76 many lies about himself which ENTITYNAME76 included in his book. He should have been more skeptical.,ENTITYNAME76 should have been more skeptical.,1
+632,ENTITYNAME19 said "Check" to Ralph as he took his bishop.,ENTITYNAME19 said "Check" to ENTITYNAME20 as he took ENTITYNAME19's bishop.,0
+633,ENTITYNAME45's mother had died long ago and her place had been taken by an excellent woman as governess.,ENTITYNAME45's mother's place had been taken by an excellent woman as governess.,1
+634,Although they ran at about the same speed ENTITYNAME31 beat Sally because she had such a bad start.,ENTITYNAME101 had such a bad start.,1
