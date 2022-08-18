@@ -1,0 +1,1662 @@
+idx,sentence,label
+8550,I wanted that he should leave.,0
+8550,I wanted he should leave.,0
+8550,I wanted if he should leave.,0
+8550,I wanted him to leave.,1
+8550,I wanted to leave.,1
+8550,ENTITYNAME1 investigated that John ate the cauliflower.,0
+8550,ENTITYNAME1 investigated John ate the cauliflower.,0
+8550,ENTITYNAME1 investigated whether John ate the cauliflower.,1
+8550,ENTITYNAME1 investigated if John ate the cauliflower.,1
+8550,ENTITYNAME1 investigated John to eat the cauliflower.,0
+8550,ENTITYNAME1 investigated to eat the cauliflower.,0
+8550,ENTITYNAME1 said Heidi was obsessed with broccoli.,1
+8550,ENTITYNAME1 said if Heidi was obsessed with broccoli.,0
+8550,ENTITYNAME1 said Heidi to eat the broccoli.,0
+8550,ENTITYNAME1 promised that we would go.,1
+8550,ENTITYNAME1 promised we would go.,1
+8550,ENTITYNAME1 promised if we would go.,0
+8550,ENTITYNAME1 promised us to go.,0
+8550,ENTITYNAME1 promised to go.,1
+8550,If I were a rich man I'd buy a diamond ring.,1
+8550,If he is a rich man he'd buy a diamond ring.,0
+8550,ENTITYNAME1 eats.,1
+8550,Rory ate muffins.,1
+8550,The muffins were eaten.,1
+8550,ENTITYNAME1 had eaten the muffins.,1
+8550,ENTITYNAME1 has eaten the muffins.,1
+8550,ENTITYNAME1 must have eaten the muffins.,1
+8550,ENTITYNAME1 may be eating the muffins.,1
+8550,ENTITYNAME1 will eat the muffins.,1
+8550,ENTITYNAME1 eats muffins.,1
+8550,ENTITYNAME1 is eating muffins.,1
+8550,ENTITYNAME1 might have been eating the muffins.,1
+8550,The muffins might have been being eaten.,1
+8550,The tuna had been being eaten.,1
+8550,ENTITYNAME1 will eat.,1
+8550,The tuna will be eaten.,1
+8550,ENTITYNAME1 will be eating.,1
+8550,ENTITYNAME1 will have eaten.,1
+8550,The tuna will be being eaten.,1
+8550,The tuna will have been eaten.,1
+8550,ENTITYNAME1 will have been eating.,1
+8550,ENTITYNAME1 was eating.,1
+8550,Calvin had eaten.,1
+8550,ENTITYNAME1 had been eating.,1
+8550,The tuna must have been eaten.,1
+8550,The tuna will have been being eaten.,1
+8550,He has not eaten yet today.,1
+8550,I have never seen this movie.,1
+8550,I never have a pen when I need it.,1
+8550,I have always loved peanut butter.,1
+8550,I do not love peanut butter.,1
+8550,ENTITYNAME1 often thinks Kim hates phonology.,1
+8550,Do you like peanut butter?,1
+8550,Have you always hated peanut butter?,1
+8550,Are you always thinking dirty thoughts?,1
+8550,ENTITYNAME1 left.,1
+8550,ENTITYNAME1 left Tucson.,1
+8550,ENTITYNAME1 left his wife.,1
+8550,I want ENTITYNAME1 that left.,0
+8550,ENTITYNAME1 thinks that left.,0
+8550,That ENTITYNAME1 will leave is likely.,1
+8550,It is likely that ENTITYNAME1 will leave.,1
+8550,The policeman kissed the puppy.,1
+8550,The puppy was kissed by the policeman.,1
+8550,The puppy was kissed.,1
+8550,ENTITYNAME1 laughed.,1
+8550,The audience laughed.,1
+8550,ENTITYNAME1 is likely John to hit.,0
+8550,It was kissed the puppy.,0
+8550,ENTITYNAME1 swatted Steve.,1
+8550,ENTITYNAME1 swatted Jennifer.,1
+8550,She swatted him.,1
+8550,He swatted her.,1
+8550,I walk.,1
+8550,You walk.,1
+8550,It is likely that ENTITYNAME1 left.,1
+8550,That ENTITYNAME1 left is likely.,1
+8550,ENTITYNAME1 is likely that left.,0
+8550,It is likely ENTITYNAME1 to leave.,0
+8550,ENTITYNAME1 to leave is likely.,0
+8550,ENTITYNAME1 is likely to leave.,1
+8550,He kissed her.,1
+8550,She was kissed.,1
+8550,She was kissed him.,0
+8550,It was kissed her.,0
+8550,ENTITYNAME1 danced at the palace.,1
+8550,ENTITYNAME1 arrived at the palace.,1
+8550,There danced three men at the palace.,0
+8550,There arrived three men at the palace.,0
+8550,It seems ENTITYNAME1 to love Cher.,0
+8550,ENTITYNAME1 was bitten the dog.,0
+8550,ENTITYNAME1 is likely that left.,0
+8550,The Shah slept in a bed.,1
+8550,The bed was slept in by the Shah.,1
+8550,Dust fell on the bed.,1
+8550,The bed was fallen on by the dust.,0
+8550,ENTITYNAME1 was hit by the baseball.,1
+8550,Was been hit by ENTITYNAME1 by the baseball.,0
+8550,ENTITYNAME1 gave Sue the book.,1
+8550,ENTITYNAME1 was given the book by Bill.,1
+8550,The book was been given by ENTITYNAME1 by Sue.,0
+8550,I cut the soft bread.,1
+8550,The soft bread cuts easily.,1
+8550,The boat sank.,1
+8550,The torpedo sank the boat.,1
+8550,The captain sank the boat.,1
+8550,The captain sank the boat with a torpedo.,1
+8550,Was sunk by the boat.,0
+8550,The boat was sunk by the captain with a torpedo.,1
+8550,I sent a book to ENTITYNAME1.,1
+8550,I sent ENTITYNAME1 a book.,1
+8550,A book was sent to ENTITYNAME1.,1
+8550,ENTITYNAME1 was sent a book to.,0
+8550,To ENTITYNAME1 was sent a book.,0
+8550,ENTITYNAME1 was sent a book.,1
+8550,A book was sent ENTITYNAME1.,0
+8550,ENTITYNAME1 seems to have left.,1
+8550,ENTITYNAME1 wants John to leave.,1
+8550,ENTITYNAME1 wants Bill to leave.,1
+8550,ENTITYNAME1 wants him to leave.,1
+8550,ENTITYNAME1 believes him to have been at the game.,1
+8550,He is believed by ENTITYNAME1 to have been at the game.,1
+8550,He is believed to have been at the game.,1
+8550,Becky bought the syntax book.,1
+8550,What did Becky buy?,1
+8550,What did ENTITYNAME1 say Becky bought?,1
+8550,ENTITYNAME1 kissed her.,1
+8550,Whom did ENTITYNAME1 kiss?,1
+8550,I wonder who ENTITYNAME1 kissed.,1
+8550,The fact that I like strawberry flavored milk shakes is none of your business.,1
+8550,She made the outrageous claim that tuna flavored milkshakes are good for you.,1
+8550,I asked where you found it.,1
+8550,I won't reveal the place.,1
+8550,I asked who she kissed.,1
+8550,I know several people who she kissed.,1
+8550,I know several people she kissed.,1
+8550,I know several people that she kissed.,1
+8550,I know I bought the book you recommended.,1
+8550,I know I bought the book that you recommended.,1
+8550,The guy who is wearing the red hat just hit me!,1
+8550,That guy who I think might be drunk just hit me!,1
+8550,The man who I think might be drunk that is escaping hit me.,0
+8550,What did ENTITYNAME1 claim that he read?,1
+8550,What do you think ENTITYNAME1 kissed?,1
+8550,What did ENTITYNAME1 make the claim that he read in the syntax book?,0
+8550,Which cake did you see the man who baked?,0
+8550,I wonder what ENTITYNAME1 bought.,1
+8550,How do you think ENTITYNAME1 bought the sweater?,1
+8550,How do you wonder what ENTITYNAME1 bought?,0
+8550,How do you think ENTITYNAME1 bought what?,1
+8550,I wonder what ENTITYNAME1 bought how.,1
+8550,I wonder what ENTITYNAME1 kissed.,1
+8550,Who did you wonder what kissed?,0
+8550,I asked what ENTITYNAME1 kissed.,1
+8550,That the police would arrest several rioters was a certainty.,1
+8550,I liked ENTITYNAME1 and John.,1
+8550,Who did you like and ENTITYNAME1?,0
+8550,I ate some popcorn and drank some soda.,1
+8550,What did you eat some popcorn and drink?,0
+8550,Who loves who?,1
+8550,Who loves whom?,1
+8550,ENTITYNAME1y loves who?,1
+8550,ENTITYNAME1 saw a spaceship in the linguistics lounge?,1
+8550,What is bothering you?,1
+8550,Who has seen my snorkel?,1
+8550,How was the plot discovered by the authorities?,1
+8550,Which animals appear to have lost their collars?,1
+8550,What did ENTITYNAME1 think was likely to have been stolen?,1
+8550,Car sales have surprised the stockbrokers.,1
+8550,Can you find the light bulb store?,1
+8550,ENTITYNAME1 was bitten by an advertising executive.,1
+8550,It is likely that ENTITYNAME1 will leave New York.,1
+8550,ENTITYNAME1 is likely to leave New York.,1
+8550,ENTITYNAME1 seems to have been mugged.,1
+8550,What did you buy at the supermarket?,1
+8550,What is it likely for ENTITYNAME1 to have bought at the supermarket?,1
+8550,What is likely to have been bought at the supermarket?,1
+8550,The trail we walked today was built by slave labor.,1
+8550,ENTITYNAME1 is always complaining about the guys who work near him.,1
+8550,The cost of bagels that are imported from Iceland surprised the teacher who ENTITYNAME1 hired last week.,1
+8550,ENTITYNAME1 gave Clay carefully a book.,0
+8550,ENTITYNAME1 gave Clay a book carefully.,1
+8550,ENTITYNAME1 showed Justin himself.,1
+8550,ENTITYNAME1 showed himself Justin.,0
+8550,I blew up the building.,1
+8550,I blew the building up.,1
+8550,I blew up it.,0
+8550,I blew it up.,1
+8550,ENTITYNAME1 sent the package to Heidi.,1
+8550,I asked ENTITYNAME1 if he had seen the Yeti.,1
+8550,I bought some flowers for ENTITYNAME1.,1
+8550,I bought ENTITYNAME1 some flowers.,1
+8550,ENTITYNAME1 is likely to leave.,1
+8550,ENTITYNAME1 is reluctant to leave.,1
+8550,ENTITYNAME1 is likely.,0
+8550,ENTITYNAME1 wants Brian to leave.,1
+8550,ENTITYNAME1 persuaded Brian to leave.,1
+8550,That ENTITYNAME1 left is likely.,1
+8550,It is likely that ENTITYNAME1 left.,1
+8550,Is likely ENTITYNAME1 to leave.,0
+8550,It is reluctant that ENTITYNAME1 left.,0
+8550,That ENTITYNAME1 left is reluctant.,0
+8550,ENTITYNAME1 is likely to dance.,1
+8550,The cat is out of the bag.,1
+8550,The cat thinks that he is out of the bag.,1
+8550,Is likely to Jean dance.,0
+8550,It is likely that ENTITYNAME1 will dance.,1
+8550,ENTITYNAME1 wants Robert.,1
+8550,ENTITYNAME1 wants him.,1
+8550,I want she to dance.,0
+8550,I want ENTITYNAME1.,1
+8550,I want ENTITYNAME1 to dance.,1
+8550,ENTITYNAME1 wants herself to dance.,1
+8550,ENTITYNAME1 is reluctant.,1
+8550,To find a new mate go to a dating service.,1
+8550,ENTITYNAME1 tried to behave.,1
+8550,ENTITYNAME1 knows that it is essential to be well behaved.,1
+8550,ENTITYNAME1 knows that it is essential.,1
+8550,ENTITYNAME1 knows it is essential that he is well behaved.,1
+8550,ENTITYNAME1 begged Kate to leave.,1
+8550,ENTITYNAME1 begged Kate that she leave her job.,0
+8550,ENTITYNAME1 begged Kate to shave himself.,0
+8550,ENTITYNAME1 begged Kate that he be allowed to shave himself.,1
+8550,To behave oneself in public is expected.,1
+8550,ENTITYNAME1 knew that it was necessary to behave himself.,1
+8550,ENTITYNAME1 expected Greg incorrectly to take out the trash.,1
+8550,The boys don't all want to leave.,1
+8550,ENTITYNAME1 is eager to do his homework.,1
+8550,ENTITYNAME1 seems to be in a good mood.,1
+8550,ENTITYNAME1 tried to get a new car.,1
+8550,ENTITYNAME1 begged Bill to let her sing in the concert.,1
+8550,ENTITYNAME1 begged to be allowed to sing in the concert.,1
+8550,ENTITYNAME1 is ready to leave.,1
+8550,ENTITYNAME1 was believed to have wanted to try to dance.,1
+8550,ENTITYNAME1 consented to try to seem to have been kissed.,1
+8550,ENTITYNAME1 told me who wanted to seem to be invincible.,1
+8550,What did ENTITYNAME1 want to eat?,1
+8550,This book is easy to read.,1
+8550,ENTITYNAME1 is easy to please.,1
+8550,To improve myself is a goal for next year.,1
+8550,To improve yourself would be a good idea.,1
+8550,To improve himself ENTITYNAME1 should consider therapy.,1
+8550,To improve herself ENTITYNAME1 went to a health spa.,1
+8550,ENTITYNAME1 really hates her job.,1
+8550,My brother likes collecting jazz records.,1
+8550,ENTITYNAME1 is deathly afraid of spiders.,1
+8550,That kind of behavior annoys me.,1
+8550,The news pleased the students.,1
+8550,Horror films disturb ENTITYNAME1.,1
+8550,The exhibition really impressed the critics.,1
+8550,ENTITYNAME1 hates those pictures of herself.,1
+8550,The children admired photos of each other.,1
+8550,ENTITYNAME1 hates reading about herself in the tabloids.,1
+8550,Pictures of himself always disturb ENTITYNAME1.,1
+8550,To be able to buy myself a ticket to France would be a dream.,1
+8550,Reading about herself in the tabloids always annoys ENTITYNAME1.,1
+8550,ENTITYNAME1 has been reading more novels than he has short stories.,1
+8550,ENTITYNAME1 will eat cabbage but she won't ice cream.,1
+8550,ENTITYNAME1 could bake something but I'm not sure what.,1
+8550,ENTITYNAME1 will eat an apple and Morgan will too.,1
+8550,ENTITYNAME1 will eat an apple and Morgan will eat an apple too.,1
+8550,ENTITYNAME1 will strike himself.,1
+8550,ENTITYNAME1 will strike himself and Otto will too.,1
+8550,ENTITYNAME1 will strike himself and Otto will strike himself too.,1
+8550,ENTITYNAME1 has dated every girl who Jeff has.,1
+8550,ENTITYNAME1 has dated every girl who Jeff has dated.,1
+8550,I know which guys you've dated but I don't know which guys you haven't.,1
+8550,Which language do you want to hire someone who speaks?,0
+8550,They want to hire someone who speaks a Balkan language but I don't know which language.,0
+8550,ENTITYNAME1 will fire someone today but I don't know who.,1
+8550,ENTITYNAME1 was talking with someone but I don't know who.,1
+8550,ENTITYNAME1 read every book that Megan did.,1
+8550,Every book that ENTITYNAME1 did Brandon read too.,1
+8550,ENTITYNAME1 has eaten more squid than John has octopus.,1
+8550,What does ENTITYNAME1 like.,1
+8550,ENTITYNAME1 wants to catch a fish and Sylvia does too.,1
+8550,ENTITYNAME1 admired himself in the mirror.,1
+8550,ENTITYNAME1 said that himself was sad.,0
+8550,ENTITYNAME1 wants himself to win.,1
+8550,Which pictures of himself did ENTITYNAME1 see in the gallery?,1
+8550,ENTITYNAME1 liked which pictures of himself?,1
+8550,Which pictures of himself did ENTITYNAME1 like?,1
+8550,ENTITYNAME1 believes Bill's description of herself.,0
+8550,ENTITYNAME1 thinks that she has won.,1
+8550,ENTITYNAME1 thinks that pictures of herself are beautiful.,1
+8550,ENTITYNAME1 gave a present to herself.,1
+8550,The army's destruction of the palace was a tragedy.,1
+8550,The army destroyed the palace.,1
+8550,ENTITYNAME1 wants to kiss herself.,1
+8550,ENTITYNAME1 believes John's description of herself.,0
+8550,ENTITYNAME1 dislikes the TV's depiction of herself.,0
+8550,ENTITYNAME1 said that pictures of herself were embarrassing.,1
+8550,ENTITYNAME1 said that Bill's pictures of herself were embarrassing.,0
+8550,ENTITYNAME1 said that himself was angry.,0
+8550,ENTITYNAME1 saw Peter's picture of her.,1
+8550,ENTITYNAME1 saw drawings of her.,1
+8550,ENTITYNAME1 loves himself.,1
+8550,ENTITYNAME1 loves pictures of himself.,1
+8550,ENTITYNAME1 loves Mary's pictures of himself.,0
+8550,ENTITYNAME1 thinks that Mary's depiction of himself is wrong.,0
+8550,ENTITYNAME1 thinks that most depictions of himself are wrong.,1
+8550,ENTITYNAME1 seems to like pictures of himself.,1
+8550,ENTITYNAME1 believes himself to be the best at baseball.,1
+8550,ENTITYNAME1 wants to congratulate himself.,1
+8550,ENTITYNAME1 loves him.,0
+8550,ENTITYNAME1 loves his puppy.,1
+8550,ENTITYNAME1 asked if the unflattering description of his work would be published in the paper.,1
+8550,ENTITYNAME1 asked if his essay would be published in the paper.,1
+8550,Any owl can hunt mice.,1
+8550,ENTITYNAME1 talked to any woman.,0
+8550,Any woman contributed to the fund.,0
+8550,ENTITYNAME1 talked to any woman who came up to him.,1
+8550,Any woman who heard the news contributed to the fund.,1
+8550,Any man who saw the fly in the food didn't eat dinner.,1
+8550,You may pick any flower.,1
+8550,You must pick any flower.,0
+8550,Any pilot could be flying this plane.,1
+8550,Any pilot must be flying this plane.,0
+8550,Any student must work hard.,1
+8550,Any doctor will tell you that.,1
+8550,Any soldier should be prepared to die for her country.,1
+8550,ENTITYNAME1 talked to a woman.,1
+8550,ENTITYNAME1 didn't talk to a woman.,1
+8550,ENTITYNAME1 kissed even the ugliest woman.,1
+8550,ENTITYNAME1 kissed even the ugliest woman who came up to him.,1
+8550,A lion is usually majestic.,1
+8550,Any lion is usually majestic.,0
+8550,A philosopher is sometimes wrong.,1
+8550,Any philosopher is sometimes wrong.,1
+8550,You must pick a flower.,1
+8550,A pilot must be flying this plane.,1
+8550,A student must work hard.,1
+8550,A soldier should be prepared to die for her country.,1
+8550,Rarely is any lion majestic.,1
+8550,Seldom is any lion majestic.,1
+8550,Never is any lion majestic.,1
+8550,Usually any lion is majestic.,0
+8550,Often any lion is majestic.,0
+8550,Always any lion is majestic.,0
+8550,You may pick absolutely any flower.,1
+8550,You may pick almost any flower.,1
+8550,Almost any pilot could be flying this plane.,1
+8550,Absolutely any pilot could be flying this plane.,1
+8550,You may pick any flower except the rose.,1
+8550,Any pilot except ENTITYNAME1 could be flying this plane.,1
+8550,ENTITYNAME1 talked to absolutely any woman who came up to him.,1
+8550,ENTITYNAME1 talked to almost any woman who came up to him.,1
+8550,ENTITYNAME1 talked to any woman who came up to him except Sue.,1
+8550,ENTITYNAME1 put carrots from his garden in the salad.,1
+8550,ENTITYNAME1 put any carrot from his garden in the salad.,1
+8550,ENTITYNAME1 talked to a woman who came up to him.,1
+8550,A woman who heard the news contributed to the fund.,1
+8550,A man who saw the fly in the food didn't eat dinner.,1
+8550,ENTITYNAME1 talked to every woman who came up to him.,1
+8550,Every woman who heard the news contributed to the fund.,1
+8550,Every man who saw the fly in the food didn't eat dinner.,1
+8550,ENTITYNAME1 talked to every woman.,1
+8550,ENTITYNAME1 regretted that she did anything to help him.,1
+8550,ENTITYNAME1 talked to any man or any woman.,0
+8550,Every student who is in ENTITYNAME1's class is working on polarity items.,1
+8550,It happens to be true of every student in ENTITYNAME1's class that he is working on polarity items.,1
+8550,Every student in ENTITYNAME1's class by virtue of being in her class is working on polarity items.,1
+8550,Every student in ENTITYNAME1's class happened to vote Republican.,1
+8550,Every woman standing under that tree is ENTITYNAME1's friend.,1
+8550,The President thanked every soldier who had fought in the.,1
+8550,Everybody who attended last week's huge rally signed the petition.,1
+8550,We didn't keep a list of the names but the President thanked every soldier who had fought in the Gulf War.,1
+8550,Every student in ENTITYNAME1's class whoever they were happened to vote Republican.,0
+8550,Every woman standing under that tree whoever she may be is ENTITYNAME1's friend.,0
+8550,Any student in ENTITYNAME1's class happened to vote.,0
+8550,Any woman standing under that tree is ENTITYNAME1's friend.,0
+8550,The President thanked any soldier who had fought in the Gulf.,1
+8550,Every restaurant that advertises in any of these papers happens to have four stars in the handbook.,1
+8550,Everybody who is in ENTITYNAME1's semantics seminar is writing a paper on polarity items.,1
+8550,ENTITYNAME1 talked to any woman at the party.,1
+8550,ENTITYNAME1 talked to any politician who is powerful.,1
+8550,ENTITYNAME1 talked to any powerful politician.,0
+8550,ENTITYNAME1 confidently answered any objections.,1
+8550,After the dinner we threw away any leftovers.,1
+8550,ENTITYNAME1 bought any picture of Queen Elizabeth.,0
+8550,ENTITYNAME1 bought any picture of Queen Elizabeth that was on sale.,1
+8550,Every philosopher is sometimes wrong but he usually doesn't admit it.,1
+8550,Any lion is generally majestic.,0
+8550,Any lion is rare.,0
+8550,Any female tiger has orange fur marked with black stripes.,1
+8550,Birds fly.,1
+8550,Any bird flies.,1
+8550,All fugitives are in jail now.,1
+8550,All lizards will die.,1
+8550,Yesterday ENTITYNAME1 talked to any woman.,0
+8550,Yesterday ENTITYNAME1 talked to any woman he saw.,1
+8550,Snow is white and snow is not white.,1
+8550,Any man didn't eat dinner.,1
+8550,ENTITYNAME1 talks to any student.,1
+8550,ENTITYNAME1 talked to any angry student.,0
+8550,ENTITYNAME1 talked to any student who was angry.,1
+8550,ENTITYNAME1 talked to any actual student.,0
+8550,Any pilot on duty today must be flying this plane.,0
+8550,Any pilot must be out flying planes today.,1
+8550,Every student read any book on giraffes he found.,1
+8550,You must pick any flower in this bed.,0
+8550,You may pick any of the flowers.,1
+8550,You must pick any of the flowers.,0
+8550,ENTITYNAME1 picked any of the flowers.,0
+8550,You may pick every flower.,1
+8550,You may pick any flower but leave a few for Mary.,1
+8550,You may pick any five flowers.,1
+8550,ENTITYNAME1 didn't pick any of the flowers.,1
+8550,Pick any flower.,1
+8550,Confiscate any liquor.,1
+8550,Pick any of these flowers.,1
+8550,Confiscate any of this liquor.,0
+8550,Mary didn't see almost every flower.,0
+8550,Mary didn't see almost any flower.,0
+8550,Every student in ENTITYNAME1's class is working on negative polarity.,1
+8550,There were twenty students at the lecture and every student who was there said it was inspiring.,1
+8550,There were twenty students at the lecture and any student who was there said it was inspiring.,0
+8550,We have many graduate students but this year the graduate director met with every student in the graduate program individually to discuss their progress.,1
+8550,We have many graduate students but this year the graduate director met with any student in the graduate program individually to discuss their progress.,0
+8550,ENTITYNAME1 found every book she had been looking for at Borders.,1
+8550,ENTITYNAME1 found any book she had been looking for at Borders.,0
+8550,ENTITYNAME1 has interviewed every student who was at the scene of the crime and Kate has interviewed them too.,1
+8550,ENTITYNAME1 has interviewed any student who was at the scene of the crime and Kate has interviewed them too.,0
+8550,Professor ENTITYNAME1 would support ENTITYNAME2 and Prof Jones Bill.,0
+8550,There is every book by ENTITYNAME1ky in this library.,1
+8550,There is any book by ENTITYNAME1 in this library.,0
+8550,There's everything ENTITYNAME1 had asked for in this store.,1
+8550,There's anything ENTITYNAME1 had asked for in this store.,0
+8550,There is any book you could imagine in this library.,1
+8550,There's anything ENTITYNAME1 could desire in this store.,1
+8550,That evening ENTITYNAME1 laughed with everybody he talked to.,1
+8550,That evening ENTITYNAME1 laughed with anybody he talked to.,1
+8550,ENTITYNAME1 talked to everybody who came up to him at the party.,1
+8550,ENTITYNAME1 talked to anybody who came up to him at the party.,1
+8550,ENTITYNAME1 offered Mary everything he had cooked for dinner.,1
+8550,ENTITYNAME1 offered Mary anything he had cooked for dinner.,0
+8550,Those days ENTITYNAME1 offered Mary everything he cooked.,1
+8550,Those days ENTITYNAME1 offered Mary anything he cooked.,1
+8550,ENTITYNAME1 made a fool of himself in front of everyone who was there.,1
+8550,ENTITYNAME1 made a fool of himself in front of anyone who was there.,1
+8550,ENTITYNAME1 sang for everyone who wanted to hear her.,1
+8550,ENTITYNAME1 sang for anyone who wanted to hear her.,1
+8550,ENTITYNAME1 slipped in front of everyone who was there.,1
+8550,ENTITYNAME1 slipped in front of anyone who was there.,0
+8550,At 4 p.m. I saw ENTITYNAME1 lecturing to everyone who was near him.,1
+8550,At 4 p.m. I saw ENTITYNAME1 lecturing to anyone who was near him.,0
+8550,ENTITYNAME1 knew every language that we encountered on our trip.,1
+8550,ENTITYNAME1 knew any language that we encountered on our trip.,1
+8550,ENTITYNAME1 liked everything that was placed before him.,1
+8550,ENTITYNAME1 liked anything that was placed before him.,1
+8550,At the end of his speech the president thanked any soldier who had fought in the gulf war.,1
+8550,ENTITYNAME1 does not think that there is anyone from Greece in his basement.,1
+8550,Can anyone pledge $1000?,1
+8550,Is it possible for everyone to to pledge $1000?,1
+8550,Is there someone who can pledge $1000?,1
+8550,If anybody comes he rings the doorbell.,1
+8550,Every student who wins any trophy displays it in a prominent place.,1
+8550,ENTITYNAME1 saw anything.,0
+8550,ENTITYNAME1 didn't see anything.,1
+8550,Some who read anything passed.,0
+8550,Every who read anything passed.,1
+8550,No student who read anything passed.,1
+8550,Some answered any question.,0
+8550,Every student answered any question.,0
+8550,Any cat doesn't like mice.,1
+8550,Every cat doesn't like mice.,1
+8550,Every cat doesn't like mice for example ENTITYNAME1 doesn't.,1
+8550,Almost every cat likes mice but ENTITYNAME1 doesn't.,1
+8550,Every cat doesn't like mice but ENTITYNAME1 doesn't.,0
+8550,Almost every cat likes mice for example ENTITYNAME1 doesn't.,1
+8550,The Dodgers beat the Red Sox and the Dodgers were beaten by the Giants.,1
+8550,The Dodgers beat the Red Sox and the Giants beat the Dodgers.,1
+8550,Different teams beat the Red Sox and were beaten by the Giants.,1
+8550,ENTITYNAME1 gave the books to ENTITYNAME2 and the records to Sue.,1
+8550,How many did you buy of those pies at the fair?,1
+8550,how many have you given of these books to these people.,1
+8550,The man chased ENTITYNAME1 returned.,0
+8550,The man that chased Fido returned.,1
+8550,The man I think chased Fido returned.,1
+8550,The man I think that chased Fido returned.,0
+8550,The man who I think chased Fido returned.,1
+8550,The man who I think that chased Fido returned.,0
+8550,Who did you think ENTITYNAME1 saw?,1
+8550,How slowly would you say he was driving?,1
+8550,How suspicious was ENTITYNAME1?,1
+8550,Who saw the man?,1
+8550,Who do you think that you saw?,1
+8550,Who do you think that saw you?,0
+8550,Who do you regret that you saw?,1
+8550,Who do you regret that saw you?,0
+8550,Who do you think you saw?,1
+8550,Who do you think saw you?,1
+8550,Who do you regret you saw?,0
+8550,Who do you regret saw you?,0
+8550,Who did you believe that came?,0
+8550,Who did you wonder whether came?,0
+8550,Who did you wonder if came?,0
+8550,Who did you arrange for to come?,0
+8550,Which table did you wonder on Kim put the book?,0
+8550,Which did you buy the table on ENTITYNAME1 put the book?,0
+8550,What do you believe that iron is to be a fact well known to virtually everybody?,0
+8550,Who did you wonder saw ENTITYNAME1?,0
+8550,Which did you buy the table supported the book?,0
+8550,The fact I put it down to that Kim came.,0
+8550,The table I put ENTITYNAME1 on which supported the book.,0
+8550,Who is it that ENTITYNAME1 likes?,1
+8550,He was talkative.,1
+8550,He was a bully.,1
+8550,He was talkative and a bully.,1
+8550,The talkative and a bully man entered.,0
+8550,Talkative and a bully entered.,0
+8550,ENTITYNAME1 is easy to please and to love Mary.,0
+8550,The man who ENTITYNAME1 loves and ENTITYNAME2 hates George computed my tax.,0
+8550,ENTITYNAME1 is easy to please and to love.,1
+8550,The kennel which ENTITYNAME1 made and ENTITYNAME2 sleeps in has been stolen.,1
+8550,The kennel in which ENTITYNAME1 keeps drugs and Fido sleeps has been stolen.,1
+8550,The kennel in which ENTITYNAME1 made and Fido sleeps has been stolen.,0
+8550,ENTITYNAME1 saw more horses than ENTITYNAME2 saw or Pete talked to.,1
+8550,ENTITYNAME1 saw more horses than ENTITYNAME2 saw cows or Pete talked to cats.,1
+8550,ENTITYNAME1 saw more horses than ENTITYNAME2 saw cows or Pete talked to.,0
+8550,I know a man who ENTITYNAME1 saw and Mary liked.,1
+8550,I know a man who saw ENTITYNAME1 and liked Mary.,1
+8550,I know a man who Bill saw and liked ENTITYNAME1.,0
+8550,I wonder who ENTITYNAME1 saw and Mary liked.,1
+8550,I wonder who ENTITYNAME1 saw and liked Mary.,0
+8550,I wonder who ENTITYNAME1 likes and hopes will win.,1
+8550,ENTITYNAME1 asked who and where Bill had seen.,0
+8550,Which book and which pencil did ENTITYNAME1 buy?,1
+8550,Where and when did ENTITYNAME1 put the book?,0
+8550,On which table and under which flower pot did ENTITYNAME1 put the keys?,1
+8550,To which city and to which conference did ENTITYNAME1 go?,1
+8550,To which city and which conference did ENTITYNAME1 go?,1
+8550,Which city and which conference did ENTITYNAME1 go to?,1
+8550,Which city and which conference did ENTITYNAME1 go to to?,0
+8550,Which city and to which conference did ENTITYNAME1 go to?,0
+8550,To which city and which conference did ENTITYNAME1 go to?,0
+8550,ENTITYNAME1 who and whose friends you saw is a fool.,0
+8550,ENTITYNAME1 to who and to whose friends that letter was addressed is a fool.,1
+8550,I wonder when and how often she went that day.,1
+8550,I wonder who and whose friends he handed over to the FBI.,1
+8550,I have wanted to know exactly what happened to ENTITYNAME1urg for many years.,1
+8550,I have wanted to know for many years exactly what happened to ENTITYNAME1.,1
+8550,I had hoped that it was true that ENTITYNAME1 had actually defected to Iceland for many years.,1
+8550,I had hoped that it was true for many years that ENTITYNAME1 had actually defected to Iceland.,1
+8550,I have wanted to meet the man who spent so much money planning the assassination of ENTITYNAME1 for many years.,1
+8550,I have wanted to meet for many years the man who spent so much money planning the assassination of ENTITYNAME1.,1
+8550,The woman believed that the man was ill who was here.,1
+8550,The woman believed that the man who was here was ill.,1
+8550,The woman who was here believed that the man was ill.,1
+8550,A woman hit a girl who was pregnant.,1
+8550,People are said to do crazier things at higher speeds there by ENTITYNAME1 than they are by other people.,1
+8550,People are said to do such crazy things at such high speeds there by ENTITYNAME1 that I am getting skeptical.,1
+8550,A woman hit a pregnant girl.,1
+8550,A pregnant woman hit a girl.,1
+8550,A man just came in and a woman went out who were similar in all kinds of ways.,1
+8550,A man just came in and a woman went out who hate each other like poison and always have.,1
+8550,I find it easy to believe - but ENTITYNAME1 finds it hard to believe - Tom to be dishonest.,0
+8550,ENTITYNAME1 offered and ENTITYNAME2 gave Sally a Cadillac.,0
+8550,ENTITYNAME1 told and ENTITYNAME2 showed ENTITYNAME3 that Sally was a virgin.,0
+8550,ENTITYNAME1 may be and Tony certainly is a werewolf.,1
+8550,ENTITYNAME1 has claimed but I do not believe that Melvin is a Communist.,1
+8550,I like but ENTITYNAME1 doesn't like to visit new places.,1
+8550,I can tell you when but I can't tell you why he left me.,1
+8550,I've been wondering whether but wouldn't positively want to state that.,1
+8550,ENTITYNAME1 hummed and Mary sang the same tune.,1
+8550,ENTITYNAME1 hummed and Mary sang at equal volumes.,1
+8550,ENTITYNAME1 gave ENTITYNAME2 and ENTITYNAME3 presented to Fred books which looked.,1
+8550,The Red Sox beat and the Giants were beaten by different teams.,1
+8550,ENTITYNAME1 loaned and his widow later donated a valuable collection of manuscripts to the library.,1
+8550,Which club did you hit the winning putt with?,1
+8550,With which club did you hit the winning putt?,1
+8550,ENTITYNAME1 was sitting at her desk.,1
+8550,The ENTITYNAME1 was sitting at her desk.,0
+8550,Accountant was sitting at her desk.,0
+8550,The accountant was sitting at her desk.,1
+8550,Accountants audit our finances every year.,1
+8550,I would like an accountants to sort out my tax return.,0
+8550,Some accountants were quietly counting in the back office.,1
+8550,Would more accountants make any difference to my tax bill?,1
+8550,The truck spread salt.,1
+8550,The truck spread the salt.,1
+8550,The truck spread salts.,1
+8550,This truck spread less salt than that one.,1
+8550,This truck spread fewer salt than that one.,0
+8550,There are fewer trucks on the motorway this winter.,1
+8550,There are less trucks on the motorway this winter.,1
+8550,The White Rabbit vanished his watch.,0
+8550,Dogs chase cats.,1
+8550,Dogs chase.,0
+8550,ENTITYNAME1 cooks.,1
+8550,ENTITYNAME1 cooks gourmet meals.,1
+8550,The cat shot into the kitchen on Sunday morning carrying a dead mouse.,1
+8550,The cat sauntered into the kitchen carrying a dead mouse.,1
+8550,ENTITYNAME1 drove her car from Morningside to Leith on Wednesday.,1
+8550,On Wednesday ENTITYNAME1 drove her car from Morningside to Leith.,1
+8550,ENTITYNAME1 drove her car on Wednesday from Morningside to Leith.,1
+8550,ENTITYNAME1 sauntered into the room.,1
+8550,Into Jeeves sauntered the room.,0
+8550,Into the room sauntered ENTITYNAME1.,1
+8550,Which room did ENTITYNAME1 sauntered into?,1
+8550,Into which room did ENTITYNAME1 sauntered?,1
+8550,ENTITYNAME1 handed the results to Alan on Tuesday.,1
+8550,The pupils in this maths class gave cakes to ENTITYNAME1 every.,1
+8550,Cakes were given to ENTITYNAME1 every Friday by the pupils in this maths class.,1
+8550,This parcel is very heavy.,1
+8550,This very heavy parcel was delivered yesterday.,1
+8550,Very heavy this parcel!,1
+8550,What this parcel is is very heavy.,1
+8550,We felled the murder with this chainsaw.,1
+8550,With this chainsaw we felled the murder.,1
+8550,ENTITYNAME1 handed the intriguing results of the latest examination to Alan on Tuesday.,1
+8550,ENTITYNAME1 handed them to Alan on Tuesday.,1
+8550,This large parcel is very heavy.,1
+8550,This large parcel is very heavy and so is this small packet.,1
+8550,ENTITYNAME1 is knitting in the lounge.,1
+8550,ENTITYNAME1 is knitting there.,1
+8550,Grandma is coming to Mr ENTITYNAME1lky's school tomorrow.,1
+8550,Grandma is coming here tomorrow.,1
+8550,The cat was sleeping in the kitchen.,1
+8550,The cat trotted into the kitchen.,1
+8550,The mouse jumped out of the cheese box.,1
+8550,The mouse was out the cheese box.,1
+8550,The cat trotted in the kitchen.,1
+8550,The cat trotted in.,1
+8550,The mouse jumped out.,1
+8550,The terrier attacked the burglar.,1
+8550,The terrier savaged the burglar's ankles.,1
+8550,The terrier attacked the burglar and the terrier savaged the burglar's ankles.,1
+8550,The terrier attacked the burglar and savaged the burglar's ankles.,1
+8550,Did the wealthy young man buy that piano for his secret fiancée?,1
+8550,Who bought that piano for his secret fiancée?,1
+8550,What did the wealthy young man buy for his secret fiancée?,1
+8550,Who did the wealthy young man buy that piano for?,1
+8550,The wealthy young man bought his secret fiancée that piano.,1
+8550,That piano was bought for his secret fiancée by the wealthy young man.,1
+8550,I don't like the plum brandy but the port I just love.,1
+8550,ENTITYNAME1 bought the piano for Jane.,1
+8550,ENTITYNAME1 bought Jane the piano.,1
+8550,The piano was bought for ENTITYNAME1 by Frank.,1
+8550,The piano ENTITYNAME1 bought for Jane.,1
+8550,Did ENTITYNAME1 buy the piano for Jane?,1
+8550,Did ENTITYNAME1 buy Jane the piano?,1
+8550,Was the piano bought for ENTITYNAME1 by Frank?,1
+8550,What did ENTITYNAME1 buy for Jane?,1
+8550,ENTITYNAME1 bought something for Jane.,1
+8550,Did ENTITYNAME1 buy something for Jane.,1
+8550,What did ENTITYNAME1 buy for Jane.,1
+8550,The children chased the dog.,1
+8550,The cook saved no scraps for the dog.,1
+8550,ENTITYNAME1 devoured the cakes in the kitchen last night.,1
+8550,Mr ENTITYNAME1ley despaired.,1
+8550,ENTITYNAME1 slighted Miss Bates.,1
+8550,ENTITYNAME1 seemed upset.,1
+8550,Mr ENTITYNAME1 sat in an armchair.,1
+8550,Mr ENTITYNAME1ley walked into the drawing room.,1
+8550,Mr ENTITYNAME1 handed his wife into the carriage.,1
+8550,ENTITYNAME1 gave bad advice to Harriet.,1
+8550,Mr ENTITYNAME1 suggested that thieves would break into Hartfield.,1
+8550,ENTITYNAME1 blamed ENTITYNAME2 for Marianne's unhappiness.,1
+8550,ENTITYNAME1 blamed ENTITYNAME2's unhappiness on ENTITYNAME3by.,1
+8550,The Romans built this aqueduct.,1
+8550,The computer will calculate the value of the variable.,1
+8550,These objections killed the proposal.,1
+8550,Lecturer was sitting at her desk.,0
+8550,Too much salt damages vehicles.,1
+8550,Too much vehicles are damaged by salt.,0
+8550,Too many salt damages vehicles.,0
+8550,Too many vehicles are damaged by salt.,1
+8550,ENTITYNAME1 gave a piano to ENTITYNAME2.,1
+8550,A piano was given to ENTITYNAME1 by ENTITYNAME2.,1
+8550,ENTITYNAME1 eloped with Lydia.,1
+8550,Miss ENTITYNAME1 can chatter on for hours.,1
+8550,ENTITYNAME1 loved ENTITYNAME2 but ENTITYNAME2 loved Edmund.,1
+8550,Mr ENTITYNAME1 became tired of ENTITYNAME2 or Mr D'Arcy persuaded Mr.,1
+8550,ENTITYNAME1 regretted that she had met ENTITYNAME2.,1
+8550,ENTITYNAME1 feared that the Abbey was haunted.,1
+8550,That ENTITYNAME1 was in conversation with Mr Elliott dismayed Captain.,1
+8550,ENTITYNAME1 was delighted by the idea that she could subscribe to a library.,1
+8550,Who thought up the proposal that the committee be abolished?,1
+8550,The cottage which Mrs ENTITYNAME1 accepted was rather small.,1
+8550,The gentleman who saved ENTITYNAME1 was ENTITYNAME2.,1
+8550,The building that we liked is in Thornton Lacey.,1
+8550,It was ENTITYNAME1 who loved Captain Wentworth but who rejected his first proposal.,1
+8550,A motorist has reported that the road is blocked by snow at Bunker Hill.,1
+8550,The Labrador ate all the food which we left on the kitchen table.,1
+8550,Show me the folder in which you stored the documents.,1
+8550,I like the book that you gave me.,1
+8550,I love the food they cook in the halls of residence.,1
+8550,A motorist has reported the road is blocked at Bunker Hill.,1
+8550,I am delighted at the idea they might demolish the Appleton Tower.,1
+8550,The cottage which Mrs ENTITYNAME1 accepted was very small.,1
+8550,ENTITYNAME1 has just seen Mr Elliott in Bath Street.,1
+8550,Nurse ENTITYNAME1 has discovered where ENTITYNAME2 stayed.,1
+8550,Nurse ENTITYNAME1 suspected that Mrs Clay planned to run away with.,1
+8550,ENTITYNAME1 astonished her father.,1
+8550,That Captain ENTITYNAME1 married Anne astonished her father.,1
+8550,Sir ENTITYNAME1 imagined the scene.,1
+8550,Sir ENTITYNAME1 imagined that he was still handsome.,1
+8550,Yesterday ENTITYNAME1 eloped with ENTITYNAME2.,1
+8550,ENTITYNAME1 eloped with ENTITYNAME2 yesterday.,1
+8550,When ENTITYNAME1 went to Brighton she eloped with ENTITYNAME2.,1
+8550,ENTITYNAME1 eloped with ENTITYNAME2 when she went to Brighton.,1
+8550,Because of the strike the commuters travelled by army lorry.,1
+8550,The commuters travelled by army lorry because of the strike.,1
+8550,Because the bus drivers were on strike the commuters travelled by army lorry.,1
+8550,The commuters travelled by army lorry because the bus drivers were on strike.,1
+8550,Although Mr D'Arcy disliked Mrs ENTITYNAME2 he married Elizabeth.,1
+8550,In spite of his dislike of Mrs ENTITYNAME1 Mr D'Arcy married Elizabeth.,1
+8550,If ENTITYNAME1 had left Hartfield Mr ENTITYNAME2 would have been unhappy.,1
+8550,Did Captain ENTITYNAME1 write a letter to ENTITYNAME2?,1
+8550,Write a letter to ENTITYNAME1.,1
+8550,Because did ENTITYNAME1 love ENTITYNAME2 she refused to.,0
+8550,If did ENTITYNAME1 leave Hartfield Mr ENTITYNAME2 would be unhappy.,0
+8550,When did ENTITYNAME1 return she found ENTITYNAME2 very ill.,0
+8550,The cottage which did Mrs ENTITYNAME1 accept was rather small.,0
+8550,ENTITYNAME1 feared that was the Abbey haunted.,0
+8550,The girls wondered who Mr ENTITYNAME1 had received in his library.,1
+8550,We were wondering who did you meet at the conference.,1
+8550,She said that in came Aunt ENTITYNAME1.,1
+8550,She said that into the room came Aunt ENTITYNAME1.,1
+8550,The person who in came at that moment was Aunt ENTITYNAME1.,0
+8550,Because in came Aunt ENTITYNAME1 stopped talking.,0
+8550,When in came Aunt ENTITYNAME1 stopped talking.,0
+8550,Because into the room came Aunt ENTITYNAME1 stopped talking.,0
+8550,When into the room came Aunt ENTITYNAME1 stopped talking.,0
+8550,Never had Sir ENTITYNAME1 been so offended.,1
+8550,The person who never had he been so offended was Sir ENTITYNAME1.,0
+8550,Because never had Sir ENTITYNAME1 been so offended even Mr Yates left.,0
+8550,When never had Sir ENTITYNAME1 been so offended Mr Yates left.,0
+8550,Dr ENTITYNAME1 habitually ate too much rich food didn't he?,1
+8550,We realised that Dr ENTITYNAME1 died because he ate too much rich food didn't he?,0
+8550,The person who ate too much rich food didn't he was Dr.,0
+8550,Because Dr ENTITYNAME1 ate too much rich food didn't he he died of apoplexy.,0
+8550,When Dr ENTITYNAME1 died of apoplexy didn't he ENTITYNAME2 went to live with his wife.,0
+8550,ENTITYNAME1 stopped talking because in came Aunt Norris.,1
+8550,Because in came Aunt ENTITYNAME1 stopped talking.,0
+8550,Mr ENTITYNAME1 left because never had Sir Thomas been so offended.,1
+8550,Because never had Sir ENTITYNAME1 been so offended Mr Yates left.,0
+8550,ENTITYNAME1 stopped talking when in came Aunt Norris.,0
+8550,When in came Aunt ENTITYNAME1 stopped talking.,0
+8550,ENTITYNAME1 continued talking although in came Aunt Norris.,0
+8550,Although in came Aunt ENTITYNAME1 continued talking.,0
+8550,ENTITYNAME1 had just stopped talking when in came Aunt Norris.,1
+8550,ENTITYNAME1 regretted talking to Mary.,1
+8550,ENTITYNAME1 wanted to marry Fanny.,1
+8550,Mrs ENTITYNAME1 having taken the others upstairs Mr ENTITYNAME2 proposed to.,1
+8550,All Mr ENTITYNAME1 does is praise Lady ENTITYNAME2urg.,1
+8550,Lady ENTITYNAME1urg tried to persuade ENTITYNAME2 to renounce Mr D'Arcy.,1
+8550,ENTITYNAME1 wanted to have married ENTITYNAME2 before Edmund returned.,1
+8550,ENTITYNAME1 regretted having talked to Mary.,1
+8550,What Mr ENTITYNAME1 is doing is praising Lady ENTITYNAME2urg.,1
+8550,ENTITYNAME1 regretted being talking to Mary.,0
+8550,All Mr ENTITYNAME1 has done is have praised Lady ENTITYNAME2urg.,0
+8550,ENTITYNAME1 and Maria wanted to be allowed to perform a play.,1
+8550,ENTITYNAME1 wanted Fanny to be able to ride a horse.,1
+8550,ENTITYNAME1 wanted to possibly marry Fanny.,0
+8550,ENTITYNAME1 loved talking to Mary.,1
+8550,Slamming the door he ran down the steps.,1
+8550,He was knowing the country well.,0
+8550,When ripe these apples will be delicious.,1
+8550,The tigers hunt prey at night.,1
+8550,ENTITYNAME1 hoped to meet the Prime Minister.,1
+8550,ENTITYNAME1 tried to bake a cake.,1
+8550,ENTITYNAME1 persuaded Arthur to bake a cake.,1
+8550,ENTITYNAME1 wanted Jane to study German.,1
+8550,ENTITYNAME1 went to the ball and chatted to ENTITYNAME2.,1
+8550,ENTITYNAME1 went to the ball and ENTITYNAME2 chatted to.,0
+8550,ENTITYNAME1 went to the ball and was chatted to by ENTITYNAME2.,1
+8550,All the Beatles came to Merle Park.,1
+8550,The Beatles all came to Merle Park.,1
+8550,Both ENTITYNAME1 and Elizabeth were at home.,1
+8550,ENTITYNAME1 and Elizabeth were both at home.,1
+8550,ENTITYNAME1 hunted all the foxes.,1
+8550,ENTITYNAME1 all hunted the foxes.,0
+8550,ENTITYNAME1 hunted the foxes all.,0
+8550,ENTITYNAME1 built both the houses.,1
+8550,ENTITYNAME1 both built the houses.,0
+8550,ENTITYNAME1 built the houses both.,0
+8550,All the foxes were hunted by ENTITYNAME1.,1
+8550,Augusta blamed herself for what happened.,1
+8550,These documents ENTITYNAME1 is checking at this very moment.,1
+8550,ENTITYNAME1 broke the cup.,1
+8550,ENTITYNAME1 drove the car.,1
+8550,ENTITYNAME1 chewed the bread.,1
+8550,The cup was broken by ENTITYNAME1.,1
+8550,The car was driven by ENTITYNAME1.,1
+8550,The bread was chewed by ENTITYNAME1.,1
+8550,These fields were marched over by all the armies of Europe.,1
+8550,How is someone to chat to a girl if she does not go out?,1
+8550,All the armies of Europe marched over these fields.,1
+8550,ENTITYNAME1 sent back the diamond necklace.,1
+8550,ENTITYNAME1 sent the diamond necklace back.,1
+8550,ENTITYNAME1 sent her cousin the diamond necklace.,1
+8550,ENTITYNAME1 sent back her cousin the diamond necklace.,0
+8550,ENTITYNAME1 wrote to ENTITYNAME2.,1
+8550,ENTITYNAME1 bought a piano for Jane.,1
+8550,ENTITYNAME1 sent a letter to Jane.,1
+8550,ENTITYNAME1 sent Jane a letter.,1
+8550,The company sent China its senior mining engineers to help plan the new mines.,1
+8550,The experts attributed ENTITYNAME1 this picture.,0
+8550,I forwarded ENTITYNAME1ifred the letter.,0
+8550,The manager presented the foreman a gold watch.,0
+8550,Kick ENTITYNAME1 the ball.,0
+8550,The critics ascribe Shakespeare this play.,0
+8550,Who did ENTITYNAME1 send a book to?,1
+8550,To whom did ENTITYNAME1 send a book?,1
+8550,What place did you travel to?,1
+8550,To what place did you travel?,1
+8550,What place did ENTITYNAME1 send the book?,1
+8550,Who was the book sent by ENTITYNAME1.,0
+8550,What place was the book sent by ENTITYNAME1?,0
+8550,Only to the best students would he give this book.,1
+8550,Only the best students would he give this book.,0
+8550,Only to Glasgow would he go by train.,1
+8550,Only Glasgow would he travel by train.,0
+8550,It is to the best students that he gives this book.,1
+8550,It is the best students he gives this book.,0
+8550,It is to Ireland that he is going.,1
+8550,It is Ireland that he is going.,0
+8550,He told her the whole story.,1
+8550,She told him the whole story.,1
+8550,The other plan she rejected out of hand.,1
+8550,The vase got broken that ENTITYNAME1 had brought all the way from.,1
+8550,The plan was rejected out of hand that traffic should be banned.,1
+8550,ENTITYNAME1 jumped off the cliff and ENTITYNAME2 did so too.,1
+8550,ENTITYNAME1 jumped off the cliff and so did ENTITYNAME2.,1
+8550,ENTITYNAME1 couldn't marry Mr ENTITYNAME2ley but Emma could.,1
+8550,What ENTITYNAME1 did was marry Mr Martin.,1
+8550,Marry Mr ENTITYNAME1 was what Harriet did.,1
+8550,ENTITYNAME1 insulted Miss ENTITYNAME2 and annoyed Mr ENTITYNAME3.,1
+8550,ENTITYNAME1 swooned.,1
+8550,The book is astonishingly boring.,1
+8550,The ENTITYNAME1 we all know and love wishes to ask you some awkward questions.,1
+8550,Golfers can be good company.,1
+8550,Enthusiastic golfers with large handicaps can be good company.,1
+8550,These enthusiastic golfers that I met at the nineteenth hole can be good company.,1
+8550,Golfer who is in training has a pretty powerful swing.,0
+8550,Memo ate the spaghetti.,1
+8550,Memo liked lasagna.,1
+8550,ENTITYNAME1 made Harriet her friend.,1
+8550,The quiche and I were cooking.,1
+8550,ENTITYNAME1a made her mother an omelet and the kitchen a mess.,1
+8550,ENTITYNAME1 went to London on Monday.,1
+8550,ENTITYNAME1 went on Monday to London.,1
+8550,My brother lives near Strasbourg.,1
+8550,Near Strasbourg my brother lives.,1
+8550,He planted the garden with roses last November.,1
+8550,He planted the garden last November with roses.,1
+8550,The baby chewed the biscuit.,1
+8550,The baby is heavy.,1
+8550,What the baby did was chew the biscuit.,1
+8550,The baby was chewing the biscuit.,1
+8550,Chew the biscuit!,1
+8550,Hartfield House is in Surrey.,1
+8550,Mr ENTITYNAME1 rode to Kingston.,1
+8550,ENTITYNAME1 and Marianne travelled from Shropshire.,1
+8550,ENTITYNAME1 gave a piano to ENTITYNAME2.,1
+8550,ENTITYNAME1 received a piano from Frank.,1
+8550,The thief smashed the window with a hammer.,1
+8550,Captain ENTITYNAME1 recovered the property for Mrs Smith.,1
+8550,The window was broken by a hammer.,1
+8550,ENTITYNAME1 built St Paul's Cathedral.,1
+8550,Siobhan burnt a pattern on the piece of wood.,1
+8550,The dog dug a hole in the lawn.,1
+8550,The vase stood on the table in the hall.,1
+8550,ENTITYNAME1gen took the vase to her mother's.,1
+8550,ENTITYNAME1gen broke the vase.,1
+8550,Sue knows the answer.,1
+8550,The answer is known to ENTITYNAME1.,1
+8550,ENTITYNAME1 was happily chopping logs.,1
+8550,ENTITYNAME1 was chopping logs when Margaret left and was still at it when she got back.,1
+8550,ENTITYNAME1 was enthusiastically chopping logs.,1
+8550,Captain ENTITYNAME1 died in order to save his comrades.,1
+8550,This arch supports the weight of the tower.,1
+8550,What this arch does is support the weight of the tower.,1
+8550,This arch is supporting the weight of the tower.,1
+8550,The computer is playing six simultaneous games of three dimensional chess.,1
+8550,The intense cold killed the climbers.,1
+8550,The climbers were killed by the intense cold.,1
+8550,The climbers were killed with the intense cold.,1
+8550,ENTITYNAME1a opened the door with this key.,1
+8550,The visas are with the passports.,1
+8550,ENTITYNAME1 went to the party with Andrew.,1
+8550,ENTITYNAME1 made the loaf with strong white flour.,1
+8550,The builders made the wall with concrete blocks.,1
+8550,The gardener planted roses in the garden.,1
+8550,It was roses that the gardener planted in the garden.,1
+8550,It is the garden that the gardener planted with roses.,1
+8550,Roses are certain to be planted in the garden by the gardener.,1
+8550,The garden is certain to be planted with roses by the gardener.,1
+8550,ENTITYNAME1 sent a scarf to ENTITYNAME2 for Margaret.,1
+8550,What happened was they went home.,1
+8550,What happened was they knew his parents.,0
+8550,We are knowing this theory.,0
+8550,They're believing everything you say.,1
+8550,You'll soon be owning all the land round here.,1
+8550,What she did was e-mail all her friends.,1
+8550,What she did was know this theory.,0
+8550,What she did was be very cold.,0
+8550,What she did was own all the land round here.,0
+8550,ENTITYNAME1 talked to Emma for hours.,1
+8550,The dog chased the cat for days.,1
+8550,ENTITYNAME1 told Emma the whole story.,1
+8550,The dog caught the cat.,1
+8550,The beaver built a dam.,1
+8550,ENTITYNAME1 played the tune on the piano.,1
+8550,ENTITYNAME1 was playing the piano.,1
+8550,ENTITYNAME1 played the piano.,1
+8550,Tess was knocking at the door.,1
+8550,Tess knocked at the door.,1
+8550,ENTITYNAME1 was crossing the street.,1
+8550,ENTITYNAME1 is visiting Emma.,1
+8550,ENTITYNAME1 visits Emma.,1
+8550,Tess is knocking at the door.,1
+8550,Tess knocks at the door.,1
+8550,ENTITYNAME1 is crossing the street.,1
+8550,ENTITYNAME1 crosses the street.,1
+8550,Real play Valencia next Sunday.,1
+8550,I leave for Paris next week.,1
+8550,The volcano erupts on Tuesday.,0
+8550,The Minister has arrived.,1
+8550,I've been at work for six hours.,1
+8550,Have you ever visited Doubtful Sound?,1
+8550,There was an attack yesterday.,1
+8550,ENTITYNAME1 and Harriet were attacked by those bandits.,1
+8550,Those bandits attacked ENTITYNAME1 and Harriet yesterday.,1
+8550,The vase was smashed deliberately.,1
+8550,The sheep got infected with scrapie.,1
+8550,The fans were deliberately provoked by a rival group.,1
+8550,The fans got deliberately provoked by a rival group.,1
+8550,Six students got shot accidentally.,1
+8550,Some gifts get used a dozen or so times a year.,1
+8550,Can't you see I'm reading?,1
+8550,People go hunting in the Autumn.,1
+8550,We spent yesterday cooking.,1
+8550,She buys for Harrods.,1
+8550,I saw and he chops.,1
+8550,This sweater washes well.,1
+8550,This book reads well.,1
+8550,These cars sold very quickly last week.,1
+8550,It will take years for the Mersey to clean.,1
+8550,The course is jumping well.,1
+8550,One bomb didn't guide and crashed.,1
+8550,ENTITYNAME1 may be here by 5 o'clock.,1
+8550,If ENTITYNAME1 is here by 5 o'clock we can go to the party.,1
+8550,It's high time ENTITYNAME1 got a job.,1
+8550,It's high time ENTITYNAME1 gets a job.,0
+8550,ENTITYNAME1 is either stupid or a liar.,1
+8550,ENTITYNAME1 is a Republican and proud of it.,1
+8550,ENTITYNAME1 is healthy and of sound mind.,1
+8550,ENTITYNAME1 is either asleep or at the office.,1
+8550,That was a rude remark and in very bad taste.,1
+8550,ENTITYNAME1 is either a lunatic or under the influence of drugs.,1
+8550,I am hoping to get an invitation and optimistic about my chances.,1
+8550,I am neither an authority on this subject nor trying to portray myself as one.,1
+8550,ENTITYNAME1 was neither recommended for promotion nor under any illusions about what that meant.,1
+8550,ENTITYNAME1 has become a banker and very conservative.,1
+8550,I consider that a rude remark and in very [NP and PP] bad taste.,1
+8550,The scene of the movie was in Chicago.,1
+8550,The scene of the movie and that I wrote was in Chicago.,0
+8550,ENTITYNAME1 sang beautifully.,1
+8550,ENTITYNAME1 sang a carol.,1
+8550,ENTITYNAME1 sang beautifully and a carol.,0
+8550,ENTITYNAME1 sang and Sandy danced.,1
+8550,ENTITYNAME1 and Sandy met.,1
+8550,ENTITYNAME1 sang and was accompanied by Sandy.,1
+8550,The irritating and a bully man was my brother.,0
+8550,Soon irritating and a bully started shouting again.,0
+8550,ENTITYNAME1 was a banker.,1
+8550,ENTITYNAME1 was quite competent.,1
+8550,ENTITYNAME1 was in the flood zone.,1
+8550,ENTITYNAME1 was talking to Lou.,1
+8550,ENTITYNAME1 was given a prize.,1
+8550,ENTITYNAME1 has become a Republican.,1
+8550,ENTITYNAME1 became quite conservative.,1
+8550,ENTITYNAME1 has become of the opinion that we should get out.,0
+8550,ENTITYNAME1 became awarded a prize.,0
+8550,ENTITYNAME1 will become talking to colleagues.,0
+8550,ENTITYNAME1 became a republican and quite conservative.,1
+8550,ENTITYNAME1 has become a republican and of the opinion that we must place nuclear weapons in Europe.,0
+8550,ENTITYNAME1 became quite conservative and trying to change their minds.,0
+8550,ENTITYNAME1 became a republican and awarded a prize.,0
+8550,We walked slowly and with great care.,1
+8550,They wanted to leave tomorrow or on Tuesday.,1
+8550,We are open Saturdays any national holiday and on alternate.,1
+8550,ENTITYNAME1 alienates cats and beats his dog.,1
+8550,ENTITYNAME1 alienates cats and beat his dog.,1
+8550,ENTITYNAME1 alienated cats and beats his dog.,1
+8550,ENTITYNAME1 alienated cats and beat his dog.,1
+8550,ENTITYNAME1 alienated cats and beaten his dog.,0
+8550,ENTITYNAME1 beating his dog and alienates cats.,0
+8550,ENTITYNAME1 to beat his dog and alienated cats.,0
+8550,ENTITYNAME1 beaten his dog and alienates cats.,0
+8550,Which student's grades went unreported?,1
+8550,They found pictures of themselves.,1
+8550,Who did you say my talking to would bother ENTITYNAME1?,0
+8550,Who did you say my talking to would bother?,1
+8550,Which article did ENTITYNAME1 file without reading?,1
+8550,Which books did ENTITYNAME1 read and hate?,1
+8550,Which books did ENTITYNAME1 talk to Chris and read?,0
+8550,Which books did ENTITYNAME1 read and talk to Chris?,0
+8550,Who did ENTITYNAME1 visit and?,0
+8550,They talked to ENTITYNAME1 and to each other.,1
+8550,He hated himself and his friends.,1
+8550,They were wary of themselves and of each other.,1
+8550,They asked which students and which teachers would get along together.,1
+8550,We called up every man whose father and whose mother had played on the team.,1
+8550,I went to the store and bought some whiskey.,1
+8550,She's gone and ruined her dress now.,1
+8550,I've got to try and find that screw.,1
+8550,She goes and buys some whiskey.,1
+8550,I have gone and bought some whiskey.,1
+8550,I will go and buy some whiskey.,1
+8550,I will try and buy some whiskey.,1
+8550,I have gone and buys some whiskey.,0
+8550,To go and buying whiskey is not the solution to your problem.,0
+8550,I will go and bought some whiskey.,0
+8550,I tried and buy some whiskey.,0
+8550,I was trying and buying some whiskey.,0
+8550,What did you say I went and get?,0
+8550,What did you say I go and got?,0
+8550,I went to the store and I bought some whiskey.,1
+8550,I've got to try and I've got to find that screw.,1
+8550,I both went to the store and bought some whiskey.,1
+8550,I've got to both try and find that screw.,1
+8550,Here's the whiskey which I went to the store and bought.,1
+8550,Which dress has she gone and ruined now?,1
+8550,The screw which I've got to try and find holds the door to the frame.,1
+8550,Either we Americans or I myself will get ourselves in trouble.,1
+8550,Either you or I will incriminate ourselves.,1
+8550,You and I may incriminate ourselves.,1
+8550,We Americans and the British pamper ourselves.,1
+8550,You British and you Americans pamper yourselves.,1
+8550,You British or you Americans will get yourselves in trouble.,1
+8550,You and ENTITYNAME1 have outdone yourselves.,1
+8550,You or ENTITYNAME1 have perjured yourselves.,1
+8550,The boys and the girls seem happy.,1
+8550,The boys and the girls seems happy.,0
+8550,Either the boys or the girls are going to be there.,1
+8550,The students and Professor ENTITYNAME1 are meeting in the park.,1
+8550,Either Professor ENTITYNAME1 or the graduate students are going to proctor the exam.,1
+8550,Either ENTITYNAME1 or Lee is going to lead the parade.,1
+8550,ENTITYNAME1 and Terry are happy.,1
+8550,Either the boys or the girls is going to be there.,0
+8550,The students and Professor ENTITYNAME1 is meeting in the park.,0
+8550,Either Professor ENTITYNAME1 or the graduate students is going to proctor the exam.,0
+8550,Either ENTITYNAME1 or Lee are going to lead the parade.,1
+8550,ENTITYNAME1 likes ENTITYNAME2 and ENTITYNAME3. to try to go to Rome.,1
+8550,ENTITYNAME1 wanted to try to go to Berne and Chris to go to Rome. to Rome.,1
+8550,ENTITYNAME1 went to the store and then Lou.,1
+8550,Some people go by car but others by bike.,1
+8550,Some people like bagels but others cream cheese.,1
+8550,On weekdays ENTITYNAME1 eats meat and vegetables but on weekends only vegetables.,1
+8550,ENTITYNAME1 drinks coffee at 11 and Mary tea at 10:30.,0
+8550,ENTITYNAME1 gave the books to ENTITYNAME2 at Christmas and the records to Sue for her birthday.,1
+8550,ENTITYNAME1 talked to his supervisor about his thesis and Erich to the dean about department politics.,1
+8550,A businessman will drink a martini to relax and a health nut a glass of wine just to remain healthy.,1
+8550,ENTITYNAME1 left at 11 and at 12 Bill.,0
+8550,ENTITYNAME1 left his office at 11 and at 12 the library.,1
+8550,A policeman walked in at 11 and at 12 a fireman.,1
+8550,Two days ago we went out to dinner and this afternoon to the movies.,1
+8550,On this table they put a lamp and on that table a radio.,1
+8550,ENTITYNAME1 didn't see ENTITYNAME2 and ENTITYNAME3.,0
+8550,ENTITYNAME1 didn't give the books to ENTITYNAME2 and the papers to Sue.,1
+8550,ENTITYNAME1 likes ENTITYNAME2 and ENTITYNAME3 to Leslie.,0
+8550,ENTITYNAME1 wanted to go to Berne and Chris going to Rome.,0
+8550,ENTITYNAME1 gave a dollar to ENTITYNAME2 and a dime into his pocket.,0
+8550,ENTITYNAME1 likes ENTITYNAME2 and to Ronnie.,0
+8550,ENTITYNAME1 likes ENTITYNAME2 and ENTITYNAME3 likes to Leslie.,0
+8550,ENTITYNAME1 is rather foolish and Lou a complete idiot.,1
+8550,ENTITYNAME1 seems to be just surviving and Terry in dire need of our help.,1
+8550,We consider ENTITYNAME1 rather foolish and Lou a complete idiot.,1
+8550,ENTITYNAME1 has become crazy and Chris an incredible bore.,1
+8550,ENTITYNAME1 has become crazy and Chris in good spirits.,0
+8550,I gave a book to ENTITYNAME1's mother and a magazine to him.,0
+8550,ENTITYNAME1 remembered the appointment and that it was important to be on time.,1
+8550,That ENTITYNAME1 appointed ENTITYNAME2 and the implications thereof frightened many observers.,1
+8550,We talked about Mr. ENTITYNAME1 and that he had worked at the.,1
+8550,You can depend on my assistant and that he will be on time.,1
+8550,ENTITYNAME1 was annoyed by the children's noise and that their parents did nothing to stop it.,1
+8550,We talked about that he had worked at the White House.,0
+8550,You can depend on that he will be on time.,0
+8550,ENTITYNAME1 was annoyed by that their parents did nothing to stop it.,0
+8550,We talked about the issues we had worked on as students and that our perspectives had changed over the years.,1
+8550,We talked about that our perspectives had changed over the years and the issues we had worked on as students.,0
+8550,That our perspectives had changed over the years and the issues we had worked on as students were the topics of discussion.,1
+8550,The clever snake disappeared into a hole in the ground.,1
+8550,Hole into disappeared ground the the in clever a little.,0
+8550,The snake clever disappeared into a hole in the ground.,0
+8550,This girl in the red coat will put a picture of ENTITYNAME1 on your desk before tomorrow.,0
+8550,This girl in the red coat will put a picture of ENTITYNAME1 on your desk there before tomorrow.,0
+8550,This girl in the red coat one will put a picture of ENTITYNAME1 on your desk before tomorrow.,0
+8550,This girl in the red coat will put a picture of ENTITYNAME1 on your desk it before tomorrow.,0
+8550,This girl in the red coat will put a picture of ENTITYNAME1 on your desk before tomorrow.,1
+8550,ENTITYNAME1 will put a picture of this girl in the red coat on your desk before tomorrow.,1
+8550,She will put a picture of ENTITYNAME1 on your desk before tomorrow.,1
+8550,ENTITYNAME1 will put a picture of she on your desk before tomorrow.,0
+8550,ENTITYNAME1 will put a picture of her on your desk before tomorrow.,1
+8550,Her will put a picture of ENTITYNAME1 on your desk before tomorrow.,0
+8550,She her will put a picture of ENTITYNAME1 on your desk before tomorrow.,0
+8550,ENTITYNAME1 will put a picture of she her on your desk before tomorrow.,0
+8550,Clean your desk before tomorrow.,1
+8550,This girl will put a picture of ENTITYNAME1 on your desk before tomorrow.,1
+8550,This boy must not go to school and his father must not go to school either.,1
+8550,This boy must not go to France but his father must go to France.,1
+8550,This actress must play in this movie and she will play in this movie.,1
+8550,Can ENTITYNAME1 win the race and will Sue win the race too?,1
+8550,This girl will buy bread and so will that one buy bread.,1
+8550,The tourists will go to the park.,1
+8550,Will the tourists go to the park?,1
+8550,Some student from Australia speaks Chinese.,1
+8550,Does some student from Australia speak Chinese?,1
+8550,They would have been walking for hours.,1
+8550,Would they have been walking for hours?,1
+8550,This girl will not buy bread will she buy bread?,1
+8550,ENTITYNAME1 can act well in many kinds of movies can't he act well in many kinds of movies?,1
+8550,You will put a picture of ENTITYNAME1 on your desk before tomorrow.,1
+8550,This girl in the red coat or you will put a picture of ENTITYNAME1 on your desk before tomorrow.,1
+8550,No boys will put a picture of ENTITYNAME1 on your desk before tomorrow.,1
+8550,This girl in the red coat but no boys will put a picture of ENTITYNAME1 on your desk before tomorrow.,1
+8550,This girl in the red coat will put it and a picture of ENTITYNAME1 on your desk before tomorrow.,1
+8550,This girl in the red coat will put a picture of ENTITYNAME1 in the mailbox before tomorrow.,1
+8550,This girl in the red coat will put a picture of ENTITYNAME1 on your desk after the dinner.,1
+8550,This girl in the red coat will put a picture of ENTITYNAME1 on your desk after the dinner and before tomorrow.,1
+8550,This girl in the red coat will eat her breakfast before tomorrow.,1
+8550,This girl in the red coat will eat her breakfast before tomorrow and put a picture of ENTITYNAME1 on your desk before tomorrow.,1
+8550,This girl in the red coat will eat her breakfast and will put a picture of ENTITYNAME1 on your desk before tomorrow.,1
+8550,This girl in the red coat will put a picture of ENTITYNAME1 on your desk.,1
+8550,This girl in the red dress must put a picture of ENTITYNAME1 on your desk.,1
+8550,This girl in the red coat will and dress must put a picture of ENTITYNAME1 on your desk.,0
+8550,This girl in the or on the red coat will put a picture of ENTITYNAME1 on your desk.,0
+8550,ENTITYNAME1 and ENTITYNAME2 will play with ENTITYNAME3 and with Sue.,1
+8550,They play unusual music and I listen to unusual music.,1
+8550,They play and I listen to unusual music.,1
+8550,I love ice milk tea but you hate ice milk tea.,1
+8550,I love but you hate ice milk tea.,1
+8550,She may have thawed the roast and should have thawed the roast.,1
+8550,She may have and should have thawed the roast.,1
+8550,ENTITYNAME1 loaned a valuable collection of manuscripts to the library and his widow later donated a valuable collection of manuscripts to the library.,1
+8550,ENTITYNAME1 loaned and his widow later donated a valuable collection of manuscripts to the library.,1
+8550,I borrowed large sums of money from the bank and my sister stole large sums of money from the bank.,1
+8550,I borrowed and my sister stole large sums of money from the bank.,1
+8550,Put a picture of ENTITYNAME1 on your desk this girl in the red coat will put a picture of ENTITYNAME1 on your desk before tomorrow.,0
+8550,ENTITYNAME1 should know that you must go to the station.,1
+8550,That you must go to the station Mary should know that you must go to the station.,1
+8550,This your this girl in the red coat will put a picture of ENTITYNAME1 on your desk before tomorrow.,0
+8550,Will ENTITYNAME1 this girl in the red coat will put a picture of ENTITYNAME1 on your desk before tomorrow.,0
+8550,Red picture desk this girl in the red coat will put a picture of.,0
+8550,Before your this girl in the red coat will put a picture of ENTITYNAME1 on your desk before tomorrow.,0
+8550,Girl in the red coat this girl in the red coat will put a picture of ENTITYNAME1 on your desk before tomorrow.,0
+8550,Will put a picture of ENTITYNAME1 on your desk before tomorrow this girl in the red coat will put a picture of ENTITYNAME1 on your desk before tomorrow.,0
+8550,The red this girl in the red coat will put a picture of ENTITYNAME1 on your desk before tomorrow.,0
+8550,Of ENTITYNAME1 on this girl in the red coat will put a picture of ENTITYNAME1 on your desk before tomorrow.,0
+8550,Will put this girl in the red coat will put a picture of ENTITYNAME1 on your desk before tomorrow.,0
+8550,Your desk before this girl in the red coat will put a picture of ENTITYNAME1 on your desk before tomorrow.,0
+8550,It is your notes that ENTITYNAME1 wants to look at after class.,1
+8550,It is after class that ENTITYNAME1 wants to look at your notes.,1
+8550,It is ENTITYNAME1 who wants to look at your notes after class.,1
+8550,It was ENTITYNAME1 who bought a first edition of Richard III for $1000.,1
+8550,It was a first edition of Richard III that ENTITYNAME1 bought for $1000.,1
+8550,It was for $1000 that ENTITYNAME1 bought a first edition of Richard III.,1
+8550,It is before tomorrow that this girl in the red coat will put a picture of ENTITYNAME1 on your desk before tomorrow.,0
+8550,ENTITYNAME1 saw the tall man coming from England.,1
+8550,it is the tall man coming from England that ENTITYNAME1 saw the tall man coming from England.,0
+8550,ENTITYNAME1 saw the tall man come from the back.,1
+8550,it is the tall man come from the back that ENTITYNAME1 saw the tall man come from the back.,0
+8550,It is a picture of ENTITYNAME1 that this girl in the red coat will put on your desk before tomorrow.,1
+8550,It is put a picture of ENTITYNAME1 on your desk before tomorrow that this girl in the red coat will.,0
+8550,What ENTITYNAME1 wants to look at now is your notes.,1
+8550,What ENTITYNAME1 gave was a book to John.,0
+8550,What ENTITYNAME1 donated was a lot of money to NPR.,0
+8550,It is to Cleveland that ENTITYNAME1 drove the truck.,1
+8550,What ENTITYNAME1 became was deadly afraid of flying.,1
+8550,It is deadly afraid of flying that ENTITYNAME1 became.,0
+8550,ENTITYNAME1 told us that he wants to quit school.,1
+8550,It is that he wants to quit school that ENTITYNAME1 told us.,0
+8550,What ENTITYNAME1 told us is that he wants to quit school.,1
+8550,ENTITYNAME1 promised us to be gentle.,1
+8550,It is to be gentle that ENTITYNAME1 promised.,0
+8550,ENTITYNAME1 will arrive tomorrow.,1
+8550,It is arrive tomorrow that ENTITYNAME1 will.,0
+8550,ENTITYNAME1 wants the book which is on the top shelf.,1
+8550,What ENTITYNAME1 wants is the book which is on the top shelf.,1
+8550,The spy became too friendly with his new contacts.,1
+8550,What the spy became was too friendly with his new contacts.,1
+8550,What this girl in the red coat will do is put a picture of ENTITYNAME1 on your desk before tomorrow.,1
+8550,ENTITYNAME1 wants to buy these books about cooking.,1
+8550,which books about cooking does ENTITYNAME1 want to buy?,1
+8550,I sent it to you.,1
+8550,I sent to you it.,0
+8550,I sent to you recipes.,0
+8550,ENTITYNAME1's mother's friends are waiting at the restaurant.,1
+8550,ENTITYNAME1's mother's friends and John are waiting at the restaurant.,1
+8550,It was ENTITYNAME1 that was waiting at the restaurant.,1
+8550,It was ENTITYNAME1 that were waiting at the restaurant.,0
+8550,It was ENTITYNAME1 and Bill that were waiting at the restaurant.,1
+8550,I will eat spaghetti on Sunday with ENTITYNAME1.,1
+8550,I will speak to ENTITYNAME1 about this.,1
+8550,I doubt that ENTITYNAME1 reads mysteries.,1
+8550,He muttered that the visitors will leave.,1
+8550,The fact that ENTITYNAME1 is snoring is informative.,1
+8550,The man that Mary saw knew me.,1
+8550,That the visiting team won the race could surprise them.,1
+8550,That is what you should see.,1
+8550,ENTITYNAME1 knows that she left.,1
+8550,ENTITYNAME1 knows whether she will come back.,1
+8550,ENTITYNAME1 knows that she left and whether she will come back.,1
+8550,ENTITYNAME1 knows that she left and ENTITYNAME1 knows whether she will come back.,1
+8550,ENTITYNAME1 asked whether she left.,1
+8550,I doubt if she kicks perfect goals every time.,1
+8550,They think that she can do it.,1
+8550,whether she left is most unclear.,1
+8550,That the girl put a picture there proves her guilt.,1
+8550,I prefer for the girl to put a picture there.,1
+8550,For the girl to put a picture there is what I prefer.,1
+8550,For the girl to put a picture there would surprise you.,1
+8550,I prefer for the girl to win.,1
+8550,I prefer for the girl to will win.,0
+8550,I prefer for the girl to wins.,0
+8550,Let's walk.,1
+8550,I run on the beach.,1
+8550,The three sunbathers went swimming.,1
+8550,I hope that ENTITYNAME1 wins.,1
+8550,They know if ENTITYNAME1 won.,1
+8550,I wonder whether ENTITYNAME1 will win.,1
+8550,They prefer for ENTITYNAME1 to leave.,1
+8550,ENTITYNAME1 wonders whether Mary will win.,1
+8550,ENTITYNAME1 wonders whether to win.,1
+8550,Whether she will win is a question ENTITYNAME1 never considered.,1
+8550,Whether to win is a question ENTITYNAME1 never considered.,1
+8550,I think that you will see that the girl will put a picture on your desk.,1
+8550,They understand that you will prefer for the girl to put a picture on your desk.,1
+8550,ENTITYNAME1 cuts the paper easily.,1
+8550,The paper cuts easily.,1
+8550,That he won the race could surprise them.,1
+8550,That him won the race could surprise them.,0
+8550,For him to win the race would surprise them.,1
+8550,For he to win the race would surprise them.,0
+8550,ENTITYNAME1 saw Mary.,1
+8550,ENTITYNAME1 likes movies.,1
+8550,For ENTITYNAME1 to leave on time is important.,1
+8550,Think about linguistics all night she does think about linguistics all night.,0
+8550,Climb to the top they do climb to the top.,0
+8550,ENTITYNAME1 can go to the market on his bike.,1
+8550,ENTITYNAME1 should buy some flowers on Sunday.,1
+8550,My niece could write me letters before her third birthday.,1
+8550,My nephew could write letters to his parents with a fountain pen.,1
+8550,ENTITYNAME1 can go to the market quickly.,1
+8550,ENTITYNAME1 should buy some flowers for her mother to arrange.,1
+8550,My niece could write me letters more faithfully.,1
+8550,ENTITYNAME1 can quickly go to the market.,1
+8550,My niece could more faithfully write me letters.,1
+8550,ENTITYNAME1 can go to the market to India.,0
+8550,ENTITYNAME1 should buy some flowers some bread.,0
+8550,My niece could write me you letters.,0
+8550,My nephew could write letters the postcards to his parents.,0
+8550,ENTITYNAME1 can go to the market on his bike on a truck.,1
+8550,ENTITYNAME1 should buy some flowers on Sunday at 5 o'clock.,1
+8550,My nephew could write letters to his parents with a fountain pen with your help.,1
+8550,ENTITYNAME1 visited his uncle.,1
+8550,She sold the car to ENTITYNAME1 for five dollars.,1
+8550,She ran the car on propane from Reno to Vegas.,1
+8550,The process changed the substance from solid to liquid to gas to energy.,1
+8550,We associated their subsidiaries with our corporate office.,1
+8550,I cycled around France.,1
+8550,ENTITYNAME1 drank some beer in the barn from 6 to nine.,1
+8550,It was in the barn or it took place in the barn.,1
+8550,It was some beer or it took place some beer.,0
+8550,They wonder whether ENTITYNAME1 will run.,1
+8550,They wonder about this.,1
+8550,They wonder.,1
+8550,I know that she runs.,1
+8550,I know.,1
+8550,I said that she runs.,1
+8550,I said that.,1
+8550,I said.,0
+8550,I prefer for ENTITYNAME1 to run.,1
+8550,I prefer this.,1
+8550,I prefer.,0
+8550,I said for ENTITYNAME1 to run.,1
+8550,I said this.,1
+8550,I put the book on the shelf.,1
+8550,I put the book.,0
+8550,I put.,0
+8550,Two ships appeared arrived remained emerged.,1
+8550,Suddenly there appeared two ships on the horizon.,1
+8550,Two inspectors from the INS appeared arrived remained emerged.,1
+8550,The ice melts breaks.,1
+8550,The door opens closes.,1
+8550,They melted broke the ice.,1
+8550,They opened closed the door.,1
+8550,They cooked thickened the soup.,1
+8550,I go run swim jump fly crawl dance walk.,1
+8550,They went me ran me swam me jumped me flew me crawled me danced me walked me.,0
+8550,I danced a dance.,1
+8550,He walked the walk.,1
+8550,The time elapsed slowly.,1
+8550,The time elapsed the day.,0
+8550,I see stars.,1
+8550,I see.,1
+8550,I liked ENTITYNAME1.,1
+8550,I liked.,0
+8550,They surrounded the fort.,1
+8550,They surrounded.,0
+8550,I gave the charity.,1
+8550,I gave money.,1
+8550,I gave.,1
+8550,I handed the ball to ENTITYNAME1.,1
+8550,I handed the ball.,0
+8550,I handed to ENTITYNAME1.,0
+8550,I handed.,0
+8550,ENTITYNAME1 ate.,1
+8550,ENTITYNAME1 knows.,1
+8550,ENTITYNAME1 needed.,0
+8550,ENTITYNAME1 criticized.,0
+8550,ENTITYNAME1 saw.,1
+8550,ENTITYNAME1 told.,1
+8550,The agency classified the documents.,1
+8550,The agency classified.,0
+8550,The war intensified the poverty.,1
+8550,This project is manageable.,1
+8550,it mattered on Sunday.,1
+8550,I saw ENTITYNAME1 on Sunday.,1
+8550,I put the book on the desk on Sunday.,1
+8550,I saw ENTITYNAME1 with a telescope.,1
+8550,It mattered with a telescope.,0
+8550,I covered the bread with butter.,1
+8550,I emptied it with butter.,0
+8550,ENTITYNAME1 will complete her exam within an hour.,1
+8550,ENTITYNAME1 will complete her exam for an hour.,0
+8550,The hiker will reach the top of the mountain within an hour.,1
+8550,The hiker will reach the top of the mountain for an hour.,0
+8550,ENTITYNAME1 will paint the floor for an hour.,1
+8550,I will read linguistics for an hour.,1
+8550,the student left.,1
+8550,only the student left.,1
+8550,even the student left.,1
+8550,all the students left.,1
+8550,I saw the student.,1
+8550,I saw only the student.,1
+8550,I saw all the students.,1
+8550,ENTITYNAME1 who I saw yesterday will visit us.,1
+8550,I saw the brilliant student.,1
+8550,I saw the brilliant one.,1
+8550,I saw the brilliant student with long hair.,1
+8550,I saw the brilliant one with long hair.,1
+8550,I saw the one with long hair.,1
+8550,I saw the physics student.,1
+8550,I saw the physics one.,0
+8550,I saw the student of physics.,1
+8550,I saw the one of physics.,0
+8550,I saw the student of physics with long hair.,1
+8550,The big student of physics with long hair in the library.,1
+8550,It is big.,1
+8550,It is with long hair.,1
+8550,It is of physics.,0
+8550,It is in the library.,1
+8550,They are intense.,1
+8550,They are intense of ENTITYNAME1.,0
+8550,They intensified.,1
+8550,They are special.,1
+8550,They are special of ENTITYNAME1.,0
+8550,They specialized.,1
+8550,She is proud.,1
+8550,she is the mother.,1
+8550,she is the mother of ENTITYNAME1.,1
+8550,They read the paper.,1
+8550,The paper is readable.,1
+8550,It is readable of the paper.,0
+8550,They are readable of the paper.,0
+8550,The driver of the car thinks that ENTITYNAME1 should leave Dallas for Boise tomorrow.,1
+8550,Her little sister will disagree with her.,1
+8550,The girl he met at the departmental party will very surely call him.,1
+8550,Beavers build dams.,1
+8550,ENTITYNAME1 will see you.,1
+8550,ENTITYNAME1 thinks that Mary left.,1
+8550,ENTITYNAME1 thinks Mary left.,1
+8550,ENTITYNAME1 whispered that Mary left.,1
+8550,ENTITYNAME1 will carefully study Russian.,1
+8550,ENTITYNAME1 carefully studies Russian.,1
+8550,ENTITYNAME1 studies carefully Russian.,0
+8550,I wonder if she will use paints.,1
+8550,Yes she will.,1
+8550,Yes she.,0
+8550,Yes she will use.,0
+8550,I wonder if she used paints.,1
+8550,Yes she did.,1
+8550,Yes she used.,0
+8550,ENTITYNAME1 will have been eating cake.,1
+8550,ENTITYNAME1 won't have been eating cake but John.,0
+8550,ENTITYNAME1 won't have been eating cake but John will.,1
+8550,ENTITYNAME1 won't have been eating cake but John will have.,1
+8550,ENTITYNAME1 won't have been eating cake but John will have been.,1
+8550,ENTITYNAME1 will enthusiastically have been eating cake.,1
+8550,ENTITYNAME1 will have enthusiastically been eating cake.,1
+8550,ENTITYNAME1 will have been eating enthusiastically cake.,0
+8550,ENTITYNAME1 will have been eating cake enthusiastically.,1
+8550,ENTITYNAME1 studied carefully Russian.,0
+8550,ENTITYNAME1 has carefully studied Russian.,1
+8550,ENTITYNAME1 had carefully studied Russian.,1
+8550,ENTITYNAME1 is carefully studying Russian.,1
+8550,ENTITYNAME1 was carefully studying Russian.,1
+8550,ENTITYNAME1 goes to school.,1
+8550,Goes ENTITYNAME1 to school?,0
+8550,ENTITYNAME1 thinks that Bill will come.,1
+8550,ENTITYNAME1 thinks whether Bill will come.,0
+8550,ENTITYNAME1 thinks for Bill to come.,0
+8550,ENTITYNAME1 wonders whether Bill will come.,1
+8550,ENTITYNAME1 wonders for Bill to come.,0
+8550,ENTITYNAME1 prefers that Bill will come.,0
+8550,ENTITYNAME1 prefers whether Bill will come.,0
+8550,ENTITYNAME1 prefers for Bill to come.,1
+8550,I wonder has ENTITYNAME1 worked for Microsoft.,1
+8550,I wonder whether ENTITYNAME1 has worked for Microsoft.,1
+8550,I wonder whether has ENTITYNAME1 worked for Microsoft.,0
+8550,I wonder has whether ENTITYNAME1 worked for Microsoft.,0
+8550,Will ENTITYNAME1 not go to school?,1
+8550,Has ENTITYNAME1 not studied for his exam?,1
+8550,Did ENTITYNAME1 not pass her exam?,1
+8550,Won't ENTITYNAME1 go to school?,1
+8550,Shouldn't ENTITYNAME1 taste the soup?,1
+8550,Hasn't ENTITYNAME1 studied for his exam?,1
+8550,Isn't ENTITYNAME1 sick?,1
+8550,Didn't ENTITYNAME1 pass her exam?,1
+8550,Will not ENTITYNAME1 go to school?,0
+8550,Should not Mary taste the soup?,0
+8550,Has not ENTITYNAME1 studied for his exam?,0
+8550,Is not ENTITYNAME1 sick?,0
+8550,Did not ENTITYNAME1 pass her exam?,0
+8550,ENTITYNAME1 put.,0
+8550,ENTITYNAME1 arrived Bill.,0
+8550,ENTITYNAME1 wonders that ENTITYNAME2 said if Bill left.,0
+8550,ENTITYNAME1 told ENTITYNAME2 in the drawer that Bill put socks.,0
+8550,she will win the race.,1
+8550,her will the race.,0
+8550,ENTITYNAME1 finished the cake and John did too finish the cake.,1
+8550,we need to provide two trees and.,1
+8550,we also need to explain the relation between these trees.,1
+8550,ENTITYNAME1 not liked Mary.,0
+8550,ENTITYNAME1 liked not Mary.,0
+8550,ENTITYNAME1 did not like Mary.,1
+8550,ENTITYNAME1 will endorse the treaty but Georges will not endorse the treaty.,1
+8550,Will ENTITYNAME1 indeed not endorse the treaty?,1
+8550,He will indeed not endorse the treaty.,0
+8550,He will indeed endorse the treaty.,1
+8550,He will not endorse the treaty; and indeed.,1
+8550,ENTITYNAME1 thinks that Bill left.,1
+8550,ENTITYNAME1 asked whether Bill left.,1
+8550,ENTITYNAME1 was wondering whether to leave or not.,1
+8550,ENTITYNAME1 was wondering whether to leave.,1
+8550,I read these big three books.,0
+8550,Mary sent.,0
+8550,ENTITYNAME1 sent a book to Bill.,1
+8550,Mary send a book.,1
+8550,ENTITYNAME1 sent Bill a book….,1
+8550,ENTITYNAME1 examined a book.,0
+8550,Sincerity examined a book.,0
+8550,We put.,0
+8550,We put a book on the table.,1
+8550,We think that ENTITYNAME1 left.,1
+8550,We think for ENTITYNAME1 left.,0
+8550,We think if ENTITYNAME1 left.,0
+8550,We wonder whether ENTITYNAME1 left.,1
+8550,We wonder if ENTITYNAME1 left.,1
+8550,We wonder that ENTITYNAME1 left.,0
+8550,ENTITYNAME1 came in.,1
+8550,Then ENTITYNAME1 left.,1
+8550,He took his umbrella.,1
+8550,He hurt himself with it when he tried to open it.,1
+8550,The idiot can't even open an umbrella!,1
+8550,ENTITYNAME1 hurt ENTITYNAME1 with ENTITYNAME1's umbrella when ENTITYNAME1 tried to open it.,0
+8550,ENTITYNAME1 can't even open an umbrella!,1
+8550,ENTITYNAME1 said he was sick.,1
+8550,The TA who graded him says that ENTITYNAME1 did really well.,1
+8550,Himself should decide soon.,0
+8550,ENTITYNAME1 wrote a letter to himself last year.,0
+8550,He should decide soon.,1
+8550,ENTITYNAME1 wrote a letter to him last year.,1
+8550,Our rabbit and the neighbor's cat like each other.,1
+8550,The boys fought with each other.,1
+8550,Each of our rabbit and the neighbor's cat likes the other.,1
+8550,Each of the boys fought with the other boys.,1
+8550,the boy likes himself.,1
+8550,the boy likes herself.,0
+8550,the boy likes themselves.,0
+8550,the girls likes themselves.,1
+8550,the girls likes herself.,0
+8550,each of the girls likes herself.,1
+8550,the girls likes yourselves.,0
+8550,Himself likes ENTITYNAME1.,0
+8550,ENTITYNAME1's pictures of herself surprised Bill.,1
+8550,I noticed ENTITYNAME1's excessive appreciation of himself.,1
+8550,ENTITYNAME1 noticed John's excessive appreciation of himself.,1
+8550,ENTITYNAME1 noticed John's excessive appreciation of herself.,0
+8550,ENTITYNAME1 noticed that John excessively appreciates herself.,0
+8550,ENTITYNAME1 loved the new pictures of himself.,1
+8550,I showed ENTITYNAME1 several portraits of herself.,1
+8550,ENTITYNAME1 believes that Mary saw himself.,0
+8550,ENTITYNAME1 noticed that John excessively appreciates himself.,1
+8550,ENTITYNAME1 appreciates only John and herself.,1
+8550,ENTITYNAME1 appreciates John and himself.,0
+8550,ENTITYNAME1 really appreciates and constantly praises herself and Sue knows it.,1
+8550,ENTITYNAME1 really appreciates and constantly praises himself and Bill knows it.,0
+8550,ENTITYNAME1 heard their criticism of each other.,1
+8550,ENTITYNAME1 heard their criticism of themselves.,1
+8550,They heard ENTITYNAME1's criticism of each other.,0
+8550,They heard ENTITYNAME1's criticism of themselves.,0
+8550,ENTITYNAME1 heard that they criticized each other.,0
+8550,They heard that ENTITYNAME1 criticized each other.,0
+8550,ENTITYNAME1 likes himself.,1
+8550,The students are proud of themselves.,1
+8550,Everyone likes himself.,1
+8550,No spy betrayed himself.,1
+8550,I heard ENTITYNAME1's criticism of himself.,1
+8550,I heard ENTITYNAME1's criticism of myself.,0
+8550,ENTITYNAME1 heard that I criticized myself.,1
+8550,I heard that ENTITYNAME1 criticized myself.,0
+8550,ENTITYNAME1 likes herself.,1
+8550,Our rabbit and the neighbor's cat like them.,0
+8550,ENTITYNAME1 likes herself.,0
+8550,Himself laughs.,0
+8550,the girls likes them.,1
+8550,ENTITYNAME1's mother likes him.,1
+8550,ENTITYNAME1 believes that Bill saw himself.,1
+8550,ENTITYNAME1 believes that Bill saw him.,1
+8550,ENTITYNAME1 believes that Bill saw herself.,0
+8550,They like their books.,1
+8550,Everyone thinks he is smart.,1
+8550,Who in this class thinks he is smart?,1
+8550,ENTITYNAME1's mother saw him.,1
+8550,No one's mother saw himself.,0
+8550,The mayor of ENTITYNAME1's hometown wrote to him.,1
+8550,The builder of his house visited ENTITYNAME1.,1
+8550,That is a bird.,1
+8550,That's the truth.,1
+8550,He is ENTITYNAME1.,1
+8550,ENTITYNAME1 is ENTITYNAME2.,1
+8550,I like ENTITYNAME1 and she likes me.,1
+8550,I like ENTITYNAME1 and she does too.,0
+8550,I like ENTITYNAME1 and she does like ENTITYNAME1 too.,0
+8550,She considers ENTITYNAME1 proud of his work.,1
+8550,They saw ENTITYNAME1 leave.,1
+8550,ENTITYNAME1 prefers that her ice cream is in a cone.,1
+8550,ENTITYNAME1 saw that Bill left.,1
+8550,What ENTITYNAME1 prefers is her ice cream in a cone.,1
+8550,What she considers is ENTITYNAME1 proud of his work.,0
+8550,What ENTITYNAME1 found is Bill sad.,0
+8550,What they saw is ENTITYNAME1 leave.,0
+8550,What ENTITYNAME1 find was Bill sad.,0
+8550,ENTITYNAME1 heard Mary describe himself.,0
+8550,ENTITYNAME1 heard Mary describe herself.,1
+8550,ENTITYNAME1 considers John proud of herself.,0
+8550,ENTITYNAME1 considers John proud of her.,1
+8550,ENTITYNAME1 considers John proud of himself.,1
+8550,ENTITYNAME1 believes himself to be proud of Mary.,1
+8550,The pictures of ENTITYNAME1 she put on your desk.,1
+8550,Which pictures of ENTITYNAME1 did she put on your desk.,1
+8550,Susan wanted to sleep.,1
+8550,She put the pictures of Bill on your desk.,1
+8550,The pictures of ENTITYNAME1 she put on your desk.,1
+8550,The picture of ENTITYNAME1 she slept.,0
+8550,She slept the picture of ENTITYNAME1.,0
+8550,You put which picture of ENTITYNAME1 on his desk?,1
+8550,Which picture of ENTITYNAME1 did you put on his desk?,1
+8550,How many strings did you say she had to pull in order to do that?,1
+8550,How much care do you think he would be taking of his patients under those circumstances?,1
+8550,How much headway is he likely to make.,1
+8550,Who left Bill.,1
+8550,Whom left ENTITYNAME1.,0
+8550,Who did ENTITYNAME1 leave.,1
+8550,Whom did ENTITYNAME1 leave.,1
+8550,Is there anything to do today?,1
+8550,There are two main characters in the novel.,1
+8550,There are 3 firemen available.,1
+8550,There stabbed an animal.,0
+8550,There ran many people.,0
+8550,Mary judged there.,0
+8550,I had a realization of there.,0
+8550,There were seven people.,1
+8550,There were several doctors available.,1
+8550,ENTITYNAME1 was eating some squid wasn't he?,1
+8550,There is a man ready to jump from the roof isn't there?,1
+8550,Sharks seem to swim slowly in the tropics.,1
+8550,the cat seems to be out of the bag.,1
+8550,the shit seems to have hit the fan.,1
+8550,There run many people.,0
+8550,There seems to be a nurse available.,1
+8550,There seems to stab an animal.,0
+8550,There seems to run many people to the station.,0
+8550,it seems that ENTITYNAME1 left.,1
+8550,Several people seem sick.,1
+8550,ENTITYNAME1 considers several people sick.,1
+8550,There are several people sick.,1
+8550,Several people seem several people sick.,1
+8550,Several people are sick.,1
+8550,ENTITYNAME1 is sick.,1
+8550,ENTITYNAME1 hopes to sleep.,1
+8550,ENTITYNAME1 hopes that she will sleep.,1
+8550,ENTITYNAME1 hopes ENTITYNAME1 to sleep.,0
+8550,Everyone hopes him to sleep.,0
+8550,Everyone hopes to sleep.,1
+8550,Everyone hopes that everyone will sleep.,1
+8550,ENTITYNAME1 hopes her to sleep.,0
+8550,Only ENTITYNAME1 remembered giving the Blood Sweat and Tears speech.,1
+8550,Only ENTITYNAME1 remembered his giving the Blood Sweat and Tears speech.,1
+8550,Only ENTITYNAME1 remembered himself giving the Blood Sweat and.,1
+8550,ENTITYNAME1 hopes herself to sleep.,1
+8550,for ENTITYNAME1 to hurt his friends is stupid.,1
+8550,to hurt his friends is stupid.,1
+8550,for ENTITYNAME1 to hurt himself is stupid.,1
+8550,to hurt oneself is stupid.,1
+8550,for ENTITYNAME1 to hurt oneself is stupid.,0
+8550,ENTITYNAME1 promised Bill to leave.,1
+8550,ENTITYNAME1 promised Mary that he would leave.,1
+8550,ENTITYNAME1 promised Mary to cut the grass.,1
+8550,ENTITYNAME1 promise Mary to control himself.,1
+8550,ENTITYNAME1 promised Mary to control herself.,0
+8550,ENTITYNAME1 promised Mary to shave herself.,0
+8550,ENTITYNAME1 seems to sleep all day.,1
+8550,ENTITYNAME1 hopes to sleep.,1
+8550,ENTITYNAME1 tried to sleep.,1
+8550,ENTITYNAME1 believes to have slept.,0
+8550,ENTITYNAME1 believes Bill to have slept.,1
+8550,ENTITYNAME1 believes for Bill to have slept.,0
+8550,ENTITYNAME1 believes that Bill has slept.,1
+8550,ENTITYNAME1 believes ENTITYNAME2 that Mary has slept.,0
+8550,ENTITYNAME1 convinced to sleep.,0
+8550,ENTITYNAME1 convinced Bill to sleep.,1
+8550,ENTITYNAME1 convinced ENTITYNAME2 for Mary to sleep.,0
+8550,ENTITYNAME1 convinced that Bill has slept.,0
+8550,it convinced ENTITYNAME1 that Mary should sleep.,0
+8550,ENTITYNAME1 believes it to be obvious that Bill left.,1
+8550,ENTITYNAME1 believes it to be raining.,1
+8550,ENTITYNAME1 convinced it to be obvious that Bill left.,0
+8550,ENTITYNAME1 convinced it to be raining.,0
+8550,ENTITYNAME1 convinced there to be several firemen available.,0
+8550,ENTITYNAME1 cooked the rice.,1
+8550,the rice was cooked by ENTITYNAME1.,1
+8550,ENTITYNAME1 visited Mary.,1
+8550,ENTITYNAME1 was visited by Bill.,1
+8550,ENTITYNAME1 believes Bill to have cooked the rice.,1
+8550,ENTITYNAME1 believes the rice to have been cooked by Bill.,1
+8550,ENTITYNAME1 believes ENTITYNAME2 to have visited Mary.,1
+8550,ENTITYNAME1 believes ENTITYNAME2 to have been visited by Bill.,1
+8550,ENTITYNAME1 convinced Bill to cook the rice.,1
+8550,ENTITYNAME1 convinced the rice to be cooked by Bill.,0
+8550,ENTITYNAME1 convinced ENTITYNAME2 to visit Mary.,1
+8550,ENTITYNAME1 believes that Bill slept.,1
+8550,I sent money.,1
+8550,I sent Mary money.,1
+8550,I sent money to Mary.,1
+8550,I sent Bill money to Mary to Sam.,0
+8550,I worked on Sunday in the city on that project without a break.,1
+8550,I praised ENTITYNAME1.,1
+8550,I praised.,0
+8550,The moon glows in the darkness.,1
+8550,The moon glows.,1
+8550,I sang a song with ENTITYNAME1 while you did so with Bill.,1
+8550,What ENTITYNAME1 did with Bill was sing a song.,1
+8550,She tried to leave,1
+8550,Who said he would give the cloak to ENTITYNAME1?,1
